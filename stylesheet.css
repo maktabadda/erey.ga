@@ -92,43 +92,6 @@ html {
   var {
     color:#ba1a1a
   }
-  #site-menu ul {
-    flex-wrap:nowrap;
-    overflow-x:auto
-  }
-  #site-menu {
-    background-color:#212121;
-    white-space:nowrap
-  }
-  #site-menu ul li {
-    list-style-type:none;
-    display:flex
-  }
-  #site-menu ul li:hover {
-    background-color:#424242
-  }
-  #site-menu ul li a {
-    color:#fff;
-    display:flex;
-    padding:1em;
-    align-items:center
-  }
-  #site-menu ul li a:visited {
-    color:#fff
-  }
-  #site-menu ul li[aria-current] a {
-    color:#64b5f6
-  }
-  #site-menu img {
-    height:1.8rem;
-    width:1.8rem;
-    filter:invert(100);
-    vertical-align:middle;
-    margin-right:.5rem
-  }
-  #site-menu ul li[aria-current] img {
-    filter:invert(60%) sepia(24%) saturate(997%) hue-rotate(168deg) brightness(107%) contrast(93%)
-  }
   main {
     margin-left:auto;
     margin-right:auto;
