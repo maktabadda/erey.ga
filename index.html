@@ -1,25 +1,71 @@
 <!DOCTYPE html>
-<html lang="so">
+<html lang="so" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>erey.ga</title>
+
+    <meta content="urur qaamuus Af-Soomaali, macnaha ereyada" name=description>
+    <meta content="dark light" name=color-scheme>
+    <meta content="width=device-width,initial-scale=1" name=viewport>
+    <meta content=website property=og:type>
     <link href=stylesheet.css rel=stylesheet>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XG1TRDBRKB"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-XG1TRDBRKB');
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W87KB845');</script>
+    <!-- End Google Tag Manager -->
 
    </head>
 <body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W87KB845"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <button type="button" class="header__themeToggle" data-theme-toggle="" aria-label="Muuqa | Aragga | Bidhaanta"></button>
+
     <div id="container">
-        <h1>erey.ga</h1>
-        <input type="text" id="wordInput" placeholder="Maxaad raadin maanta?" onkeydown="if(event.keyCode===13) searchWord()">
-        <button onclick="searchWord()">Raadi</button>
+
+        <h1>erey•ga</h1>
+
+        <div class="wrapper">
+            <input type="text" id="wordInput" placeholder="Maxaad raadin maanta?" onkeydown="if(event.keyCode===13) searchWord()">
+            <button onclick="searchWord()">
+            </button>
+        </div>
 
         <div id="definition"></div>
+        <hr>
+
         <h2>Raadka Raadinta:</h2>
         <ul id="previousSearches"></ul>
         <button onclick="clearPreviousSearches()">Tirtir Raadka Raadinta</button>
 
         <hr>
-        <footer>mashruucan wuxuu hoosyimaadaa <a href="https://maktabadda.com">maktabadda | Af-Soomaaliga</a></footer>
+
+        <footer>mashruucan wuxuu hoosyimaadaa<br>
+            <a href="https://maktabadda.com">maktabadda | Af-Soomaaliga</a><br>
+            waxaana la hirgeliyay:<br>
+            ١ محرّم ١٤٤٦ هـ<br>
+            1446.01.01<br>
+            1da Bil Zako 1446 Hijri
+        </footer>
+
     </div>
 
 
