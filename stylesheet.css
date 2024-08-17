@@ -861,8 +861,6 @@ sub {
   text-decoration: underline;
 }
 
-/* ... (keep existing CSS below) */
-
 a {
   text-decoration:none
 }
