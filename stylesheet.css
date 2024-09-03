@@ -397,33 +397,6 @@ section h3:first-child {
   margin-top: 1rem;
 }
 
-section {
-  border-top: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
-  padding: 2rem 1rem;
-  margin: 3rem 0;
-}
-
-/* Don't double separators when chaining sections */
-section + section,
-section:first-child {
-  border-top: 0;
-  padding-top: 0;
-}
-
-section + section {
-  margin-top: 0;
-}
-
-section:last-child {
-  border-bottom: 0;
-  padding-bottom: 0;
-}
-
-details {
-  padding: 0.7rem 1rem;
-}
-
 summary {
   cursor: pointer;
   font-weight: bold;
@@ -519,55 +492,6 @@ select:not([multiple]) {
   background-position: 10px, 15px;
 }
 
-/* checkbox and radio button style */
-input[type="checkbox"],
-input[type="radio"] {
-  vertical-align: middle;
-  position: relative;
-  width: min-content;
-}
-
-input[type="checkbox"] + label,
-input[type="radio"] + label {
-  display: inline-block;
-}
-
-input[type="radio"] {
-  border-radius: 100%;
-}
-
-input[type="checkbox"]:checked,
-input[type="radio"]:checked {
-  background-color: var(--accent);
-}
-
-input[type="checkbox"]:checked::after {
-  /* Creates a rectangle with colored right and bottom borders which is rotated to look like a check mark */
-  content: " ";
-  width: 0.18em;
-  height: 0.32em;
-  border-radius: 0;
-  position: absolute;
-  top: 0.05em;
-  left: 0.17em;
-  background-color: transparent;
-  border-right: solid var(--bg) 0.08em;
-  border-bottom: solid var(--bg) 0.08em;
-  font-size: 1.8em;
-  transform: rotate(45deg);
-}
-input[type="radio"]:checked::after {
-  /* creates a colored circle for the checked radio button  */
-  content: " ";
-  width: 0.25em;
-  height: 0.25em;
-  border-radius: 100%;
-  position: absolute;
-  top: 0.125em;
-  background-color: var(--bg);
-  left: 0.125em;
-  font-size: 32px;
-}
 
 /* Makes input fields wider on smaller screens */
 @media only screen and (max-width: 720px) {
@@ -608,31 +532,6 @@ mark a {
   color: #0d47a1;
 }
 
-img,
-video {
-  max-width: 100%;
-  height: auto;
-  border-radius: var(--standard-border-radius);
-}
-
-figure {
-  margin: 0;
-  display: block;
-  overflow-x: auto;
-}
-
-figure > img,
-figure > picture > img {
-  display: block;
-  margin-inline: auto;
-}
-
-figcaption {
-  text-align: center;
-  font-size: 0.9rem;
-  color: var(--text-light);
-  margin-block: 1rem;
-}
 
 blockquote {
   margin-inline-start: 2rem;
@@ -644,11 +543,6 @@ blockquote {
   font-style: italic;
 }
 
-cite {
-  font-size: 0.9rem;
-  color: var(--text-light);
-  font-style: normal;
-}
 
 dt {
     color: var(--text-light);
@@ -687,47 +581,6 @@ pre code {
   padding: 0;
 }
 
-/* Progress bars */
-/* Declarations are repeated because you */
-/* cannot combine vendor-specific selectors */
-progress {
-  width: 100%;
-}
-
-progress:indeterminate {
-  background-color: var(--accent-bg);
-}
-
-progress::-webkit-progress-bar {
-  border-radius: var(--standard-border-radius);
-  background-color: var(--accent-bg);
-}
-
-progress::-webkit-progress-value {
-  border-radius: var(--standard-border-radius);
-  background-color: var(--accent);
-}
-
-progress::-moz-progress-bar {
-  border-radius: var(--standard-border-radius);
-  background-color: var(--accent);
-  transition-property: width;
-  transition-duration: 0.3s;
-}
-
-progress:indeterminate::-moz-progress-bar {
-  background-color: var(--accent-bg);
-}
-
-dialog {
-  max-width: 40rem;
-  margin: auto;
-}
-
-dialog::backdrop {
-  background-color: var(--bg);
-  opacity: 0.8;
-}
 
 @media only screen and (max-width: 720px) {
   dialog {
