@@ -1916,6 +1916,24 @@
                 "ab": ["ab1 n4-m, n7-m • ancestor; [pl] forefathers, ancestry.","ab2 n2-m-cmp, n7-m • native (of a place); locals; tradition, heritage."],
                 "abaab":["v1= • scatter on; crawl, creep, move along by creeping; walk (as reptile ~ insect)."]
             }
+        },
+        {
+            "name": "Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan Xaashi, Cawil Xaashi [1995]",
+            "data": {
+                "a":["a': (alif) the first letter of Somali al-phabet, according to the style adopted by this dictionary, it is a vowel letter ~ shaqal.","a': (suffix) [the] definite article of some masculine nouns. Ex. arag; aragga; the sight, in English, the indefinite articles are a and an and the definite article is the.","a': (suffix) —s; used to form the third person masculine plural present tense of verbs. Ex: friya; that looks..; maqla; that hears; hurda; that sleeps; Ex: xayawaanka cawska cuna...; animals that eats grass..."],
+                "aa":["aa': (n) long vowel of letter A. Ex: aabbe; father. Caano; milk.","aa?: (suffix); —ing; used to form the present continuous tense. Ex: ma socotaa; are you going; Wuu hurdaa; he is sleeping."],
+                "aabayeel":["-ay / aabayeeshay: (v) respect (ris-pekt); consideration or courtesy. Ex: Waxba uma aabayeelin; he didn't respect anything ~ turid, —u aabayeel: (v) be considerate (bi kon-sidereyt); be thoughtful ~ tixgali —u aabayeelid -da: (n) consideration (kon-sidereyshin)"],
+                "aabbanimo":["-aabbanimada: (n) fatherhood (fader-huudh); the state of being a father."],
+                "aabbe":["-aabbaha: (n) father (faa-dar); dad (daad) ~ aabbo"],
+                "aabbo":["see [eeg] aabbe"],
+                "aabbur":["-ka: (n) lid (lid); cover (kaver); top ~ dabool, guf. Ex. aabburka ka qaad; take the lid off."],
+                "aabburan":["-aabburnaa / aabburnayd: (adj) covered (koveridh); plugged (palaagid) ~ daboolan, gufeysan aabi -ga: (n) aggression (agreshen); the act of initiating a quarrel, a fight or an attack ~ gardarro, daandaasi aabuteey -ga: (n) kite (kayt) ~ warqadda cirka loo diro oo xariga leh"],
+                "aabyood":["ay /aabyootay: (v) provoke (pro-vowk). Ex: ku aabyood; incite to anger or resentment"],
+                "aad":["aad': (pronoun) you (vuu) ~ adi-ga. Ex: waraagdii aad keentay.... the letter you brought.","aad? -ay / day: (n) 1. go (goo). Ex: isbitaalka aad: go to the hospital. 2. aad: (adv) very (veeri); in a high degree; extremely, very much. Ex: aad u jarasan; very happy.","—aad': (suffix) -th; used to form ordinal numbers. Ex: afaraad; fourth (foorth); 4ih"],
+                "aad iyo aad":["(adv) extremely. (ikistrimli); very intense. Ex: aad iyo aad baan ugu baahnahay; I need it very much -isku aad -ka: (n) [sports] playoff also play-off. Ex: isku aadka kooxha; the playoff of the teams —isku aaddi -yey / say: (V) align (alayn); to arrange in a line or line up. Ex: safka isku aaddi: line up"],
+                "aadaab":["-ta: (n) politeness (polaayt-nes); manners (man neris); etiquette (eti keeyt) ~ akhlaaq"],
+                "aadaan":["-ka: (n) the Muslim call to prayer, It is used to signify the time of prayer for the five obligatory prayers ~ addin."]
+            }
         }
     ]
 }
