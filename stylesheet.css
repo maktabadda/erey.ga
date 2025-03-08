@@ -8,7 +8,10 @@
 
 body {
   font-family: var(--sans-font);
+  padding-top: 120px; /* Adjust based on header height */
 }
+
+
 
 body > footer {
   margin-top: 4rem;
@@ -70,14 +73,14 @@ code, pre, kbd, samp {
   
 
 .header__themeToggle.header__themeToggle--light {
-  background-image: url("/img/theme-light.svg");
+  background-image: url("theme-light.svg");
 }
 
 .header__themeToggle {
   padding: .5rem;
   border-color: rgba(0,0,0,0);
   transition: all var(--global-transition-time) ease-in-out;
-  background-image: url("/img/theme-dark.svg");
+  background-image: url("theme-dark.svg");
   background-repeat: no-repeat;
   background-position: center;
   height: 2.75rem;
@@ -133,30 +136,30 @@ body > * {
 
 /* Make the header bg full width, but the content inline with body */
 body > header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
   background-color: var(--accent-bg);
   border-bottom: 1px solid var(--border);
-  text-align: center;
-  padding: 0 0.5rem 2rem 0.5rem;
-  grid-column: 1 / -1;
 }
 
-body > header > *:only-child {
-  margin-block-start: 2rem;
+.highlight-toggle-container, 
+.theme-toggle-container {
+  display: flex;
+  align-items: center;
 }
 
 body > header h1 {
-  max-width: 1200px;
-  margin: 1rem auto;
-}
-
-body > header p {
-  max-width: 40rem;
-  margin: 1rem auto;
-}
-
-/* Add a little padding to ensure spacing is correct between content and header > nav */
-main {
-  padding-top: 1.5rem;
+  margin: 0;
+  text-align: center;
+  flex-grow: 1;
 }
 
 body > footer {
@@ -433,6 +436,7 @@ sub {
   border-radius: 50px;
   padding: 1rem 2rem;
   width: 100%;
+  font-size: 1.15rem;
 }
 
 .wrapper button {
@@ -526,4 +530,157 @@ a {
 }
 a:hover {
   text-decoration:underline
+}
+
+/* Match Type Styling */
+.match-type {
+  font-size: 0.8em;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+/* Suggestions Styling */
+.suggestions {
+  margin-top: 15px;
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+}
+
+.suggestions-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: var(--text-light);
+}
+
+.suggestions-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.suggestions-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.suggestions-list li:hover {
+  background-color: var(--accent-bg);
+}
+
+.suggestion-word {
+  font-weight: bold;
+  color: var(--accent);
+}
+
+.suggestion-dictionary {
+  color: var(--text-light);
+  font-size: 0.8em;
+  margin-left: 10px;
+}
+
+/* Highlight Styling */
+[data-theme="light"] mark {
+  background-color: #ffe680;  /* Softer, less bright yellow */
+  color: #333;  /* Slightly darker text for better readability */
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+[data-theme="dark"] mark {
+  background-color: rgba(255, 230, 128, 0.3);  /* Very soft, semi-transparent yellow */
+  color: #e0e0e0;  /* Lighter text color for contrast */
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+.match-category-header {
+  width: 100%;
+  text-align: left;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+
+/* Add to existing stylesheet */
+
+.toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 24px;
+}
+
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.toggle-slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--text-light);
+  transition: .4s;
+  border-radius: 34px;
+}
+
+.toggle-slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .toggle-slider {
+  background-color: var(--accent);
+}
+
+input:focus + .toggle-slider {
+  box-shadow: 0 0 1px var(--accent);
+}
+
+input:checked + .toggle-slider:before {
+  transform: translateX(26px);
+}
+
+.highlight-toggle-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.highlight-toggle-label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: var(--text-light);
+}
+
+.highlight-toggle-label input[type="checkbox"] {
+  margin-right: 8px;
+  accent-color: var(--accent);
+}
+
+/* Styling for when highlights are disabled */
+.no-highlights mark {
+  background: none;
+  color: inherit;
+  padding: 0;
 }
