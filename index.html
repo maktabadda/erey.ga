@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="so" data-theme="light">
+<html lang="so">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>erey.ga</title>
+    <title>erey•ga</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="icon" href="favicon.ico">
+    <meta name="description" content="erey.ga waa mashruuc ku saabsan koobaha abwaannada iyo qaamuusyada ereyada af-Soomaaliga. Raadi micnaha ereygaad rabti.">
+    <meta name="keywords" content="erey, af-soomaali, af-soomaaliga, somali, somalia, mashruuc, mashruucan, ereyga, erey.ga, raadi, macnaha, micne, qaamuus, abwaan">
+    <meta name="author" content="maktabadda | Af-Soomaaliga">
 
-    <meta content="urur qaamuus Af-Soomaali, macnaha ereyada" name=description>
-    <meta content="dark light" name=color-scheme>
-    <meta content="width=device-width,initial-scale=1" name=viewport>
-    <meta content=website property=og:type>
-    <link href=stylesheet.css rel=stylesheet>
-    
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XG1TRDBRKB"></script>
     <script>
@@ -28,47 +28,47 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-W87KB845');</script>
     <!-- End Google Tag Manager -->
-
-   </head>
+     
+</head>
 <body>
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W87KB845"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <button type="button" class="header__themeToggle" data-theme-toggle="" aria-label="Muuqa | Aragga | Bidhaanta"></button>
-
-    <div id="container">
-
+    <header>
+        <button 
+            data-theme-toggle 
+            class="header__themeToggle"
+            aria-label="Muuqa | Aragga | Bidhaanta"
+        ></button>
+        
         <h1>erey•ga</h1>
+    </header>
 
+    <main>
         <div class="wrapper">
-            <input type="text" id="wordInput" placeholder="Maxaad raadin maanta?" onkeydown="if(event.keyCode===13) searchWord()">
-            <button onclick="searchWord()">
-            </button>
+            <input 
+                type="text" 
+                id="wordInput" 
+                placeholder="Maxaad raadin maanta?" 
+                aria-label="Raadi"
+            >
+            <button 
+                id="searchButton" 
+                aria-label="Raadi"
+            ></button>
         </div>
 
-        <div id="definition"></div>
-        <hr>
-
-        <h2>Raadka Raadinta:</h2>
         <ul id="previousSearches"></ul>
-        <button onclick="clearPreviousSearches()">Tirtir Raadka Raadinta</button>
 
-        <hr>
+        <div id="definition"></div>
+    </main>
 
-        <footer>mashruucan wuxuu hoosyimaadaa<br>
-            <a href="https://maktabadda.com">maktabadda | Af-Soomaaliga</a><br>
-            waxaana la hirgeliyay:<br>
-            ١ محرّم ١٤٤٦ هـ<br>
-            1446.01.01<br>
-            1da Bil Zako 1446 Hijri
-        </footer>
-
-    </div>
-
+    <footer>mashruucan wuxuu hoosyimaadaa<br>
+        <a href="https://maktabadda.com">maktabadda | Af-Soomaaliga</a><br>
+        waxaana la hirgeliyay:<br>
+        ١ محرّم ١٤٤٦ هـ<br>
+        1446.01.01<br>
+        1da Bil Zako 1446 Hijri
+    </footer>
 
     <script src="script.js"></script>
 </body>
 </html>
+
