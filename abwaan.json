@@ -2035,6 +2035,39 @@
                 "Aminayya": ["croire."],
                 "Ammaanayya": ["louer (location)."]
             }
+        },
+        {
+            "name": "Magacyada Soomaaliyeed ee Dhirta Ceel-Dheere iyo Buula-Burte - D. Herloker, B. Kujar [1985]",
+            "data": {
+                "AABEEY": ["Jatropha tropaeolifolia 01"],
+                "ABOBEY": ["Adenium obesum 01"],
+                "ABOBO MADOW": ["Jatropha arguta 10, J. obbiadensis 10"],
+                "AF BUQ": ["Commiphora gowlello 10"],
+                "AFKUDUFAN": ["Commicarpus sp 01"],
+                "AFKUDUFANLE": ["Hermannia boranensis 01, Pupalia lappacea 01"],
+                "ANEEX": ["Cucumella kelleri 01"],
+                "ANJALEELO": ["Cassia truncata 01"],
+                "ARJEEG": ["Asparagus africanus 02"],
+                "ARYEED": ["Asparagus africanus 01"],
+                "BAANSAY": ["Erythrochlamys spectabilis"],
+                "BAANSERY": ["Erythrochlamys sp. 10"],
+                "BAAR": ["Commelina sp. nov. 20"],
+                "BALALAG": ["[BALALEG] Platycelyphium voense 01"],
+                "BALALAQ": ["[BALALAL] Loewia glutinosa 01"],
+                "BALAMBAAL": ["Melhania grandibracteata 01"],
+                "BALAMBAL": ["Ipomoea 'B' 01"],
+                "BALANBAL": ["[BALAMBAL] Abutilon hirtum 20, Gossypium somalense 10,Ipomoea 'B' 01"],
+                "BALANBAL LAB": ["(?) Corchorus bricchettii 10"],
+                "BALDHOOLE": ["Tetrapogon tenellus 10"],
+                "BALENBAL": ["Pergularia daemia? 10"],
+                "BAL-WEYLOOD": ["[BALWILOD] Tetrapogon tenellus 01"],
+                "BARREYBAAJIS": ["Hyalocystis viscosa 01"],
+                "BEEYO": ["Commiphora kua 001"],
+                "BILCIL": ["[BILEL, BEL-EL, BILIL]: Acacia mellifera 63, A. senegal 04,Albizia obbiadensis 10, Parkinsonia scioana 01"],
+                "BILCIL-CADAAD": ["[BIL-EL, BEL-EL ADAD] Acacia hamulosa 01"],
+                "BILI MADOW": ["Indigofera coerulea 01"],
+                "BIRE": ["Digitaria pennata 10"]
+            }
         }
     ]
 }
