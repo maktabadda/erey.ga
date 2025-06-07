@@ -245,7 +245,7 @@ function calculateSettingAsThemeString({ localStorageTheme, systemSettingDark })
   function displayNotFound(word, definitionDiv) {
       const notFoundCardDiv = document.createElement("div");
       notFoundCardDiv.classList.add("not-found-card");
-      notFoundCardDiv.innerHTML = `Erayga "${word}" lagama helin abwaannada aan hayno.`;
+      notFoundCardDiv.textContent = `Erayga "${word}" lagama helin abwaannada aan hayno.`;
       
       const suggestions = getSuggestions(word);
       
