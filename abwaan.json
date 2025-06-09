@@ -1971,8 +1971,23 @@
                 "AD-ADAG": ["(Adadk)","N Pappea capensis Eckl. & Zeyh. Sapindaceae."],
                 "ADEN-MADOW": ["(Aden-madu)","S Elaeodendron schweinforthianum (Loes) LLoes. Celastraceae."],
                 "AFBUQ": ["(Afbug)","C Commiphora gowlello Sprague. Burseraceae."],
-                "AF-GUB": ["(Afgub)","May Commiphora oddurensis Chiov. Burseraceae.","C Commiphora sp. aff. C.glandulosa ? Burseraceae.","C, N Commiphora tubuk Sprague. Burseraceae.","N Commiphora schimperi (0.Berg) Engl. Burseraceae.","May, S Commiphora paimatifoliolata Chiov. Burseraceae.","NFD, May Opilia campestris Engl. Opiliaceae"]            
-
+                "AF-GUB": ["(Afgub)","May Commiphora oddurensis Chiov. Burseraceae.","C Commiphora sp. aff. C.glandulosa ? Burseraceae.","C, N Commiphora tubuk Sprague. Burseraceae.","N Commiphora schimperi (0.Berg) Engl. Burseraceae.","May, S Commiphora paimatifoliolata Chiov. Burseraceae.","NFD, May Opilia campestris Engl. Opiliaceae"],
+                "AF-KUDUFANLE": ["(Af-kudufunleh) C Pupalia lappacea (L)A. Juss. Amaranthaceae.","C Hermannia boranensis K.Schum. Sterculiaceae."],
+                "AF-MADOOBEEYE": ["(Af-madobeye) N, C Halothamnus somalensis (N. E. Br.) Botsch. Chenopodiaceae.","N Chrozophora oblongifolia (Del) Spreng. Euphorbiaceae."],
+                "AFRUUG": ["(Afrug) N, C Odyssea mucronata (Forsk) Stapf. Gramineae.","N Urochondra setulosa (Trin) Hubb. Gramineae.","N Aeluropus lagopoides (L) Trimen. Gramineae."],
+                "AF-TOKULLE": ["(Af-tocole) N Zygophyllum hildebrandtii Engl. Zygophyllaceae.","N Zygophyllum robecchii Engl. Zygophyllaceae."],
+                "AF-TOXOOLE": ["(Af-tohole) N Fagonia sp. aff. F. migiurtinia Hadidi Zygophyllaceae.","N Zygophyllum hildebrandtii Eng. Zygophyllaceae.","N Fagonia socotrana (Balf.F.) Schweinf Zygophyllaceae."],
+                "ALBUUN": ["(Album) S Jatropha trifida Chiov. Euphorbiaceae."],
+                "ALLAN-GOLEED": ["(Alanguled) S, May Thylachium thomasii Gilg. Capparidaceae."],
+                "ALOOL": ["(Alol) N Typha angustifolia L. Typhaceae."],
+                "ALOOL-MADOOW": ["(Alol-madu) N Typha anustifolia L. Typhaceae."],
+                "AMAAMIYE": ["(Amamie) S Farsetia robecchiana Engl. Cruciferae."],
+                "ANKOOKIB": ["(Ancochip) N Acacia ankokib Chiov. Mimosaceae."],
+                "ANSALAATO": ["(Ansalato) S Brassica oleracea L. Umbelliferae.","S Brassica sp. Umbelliferae."],
+                "AQAB": ["(Agab) S Acacia tortilis (Forsk) Hayne. Mimosaceae."],
+                "ARI-JECEL": ["(Ari-je'el) C Melhania kelleri Schinz. Sterculiaceae."],
+                "ARJEEG": ["(Arjeg) C,0g? Asparagus africanus Lam. Liliaceae.","N, Og Asparagus asiaticus L. Liliaceae.","S Asparagus somalensis Chiov. Liliaceae.","S Asparagus falcatus L. Liliaceae.","N Asparagus flagellaris (Kunth)Bak. Liliaceae.","N Asparagus gillettii Chiov. Liliaceae.","N Asparagus racemosus Willd. Liliaceae."],
+                "ARUUNDO": ["(Arundo) S. Solanum arundo Mattei. Solanaceae.","S Solanum incanum L. Solanaceae.","S Dactyliandra stefaninii (Chiov.)Jeffrey. Cucurbitaceae."]
             }
         }
     ]
