@@ -1987,7 +1987,21 @@
                 "AQAB": ["(Agab) S Acacia tortilis (Forsk) Hayne. Mimosaceae."],
                 "ARI-JECEL": ["(Ari-je'el) C Melhania kelleri Schinz. Sterculiaceae."],
                 "ARJEEG": ["(Arjeg) C,0g? Asparagus africanus Lam. Liliaceae.","N, Og Asparagus asiaticus L. Liliaceae.","S Asparagus somalensis Chiov. Liliaceae.","S Asparagus falcatus L. Liliaceae.","N Asparagus flagellaris (Kunth)Bak. Liliaceae.","N Asparagus gillettii Chiov. Liliaceae.","N Asparagus racemosus Willd. Liliaceae."],
-                "ARUUNDO": ["(Arundo) S. Solanum arundo Mattei. Solanaceae.","S Solanum incanum L. Solanaceae.","S Dactyliandra stefaninii (Chiov.)Jeffrey. Cucurbitaceae."]
+                "ARUUNDO": ["(Arundo) S. Solanum arundo Mattei. Solanaceae.","S Solanum incanum L. Solanaceae.","S Dactyliandra stefaninii (Chiov.)Jeffrey. Cucurbitaceae."],
+                "ARUUNDO-DIHIN": ["(arundo-dehen) N Solanum schimperianum A.Rich. Solanaceae."],
+                "ARUUNDO-WEYN": ["(Arundo-wein) S,C Solanum arundo Mattei Solanaceae."],
+                "ARUUNDOOY": ["(Arundoi) S Erlangea centauroides (S. Moore) S. Moore. Compositae."],
+                "ASKAX": ["(Askah) N Glossonema boveanum Decne. Asclepiadaceae.","N Glossonema thruppii Oliv. Asclepiadaceae.","N,Og Glossonema revoilii Franch. Asclepiadaceae."],
+                "ASKAX-GEEL": ["(Askah-gel) N Pentarrhinum insipidum E.May. Asclepiadaceae."],
+                "ASSAL": ["(Asal) C Suaeda fruticosa (L) Forsk. Chenopodiaceae."],
+                "ASSAL-BOONEED": ["(Asal-boned) N Trichilia emetica Vahl. Meliaceae."],
+                "ASTUUR": ["(Astur) S, N Cathamus tinctorius L. ?"],
+                "AWALLE": ["(Awalle) S Clerodendrum acerbianum (Vis) Benth & Hook. Verbenaceae."],
+                "AWR-DAYE": ["(Aura-daye) N Ochradenus somalensis Bak.F. Resedaceae."],
+                "AYAX-MAKAREEN": ["(Aiah-macaren) S Bothriochloa insculpta (A.Rich.)A.Camus. Gramineae.","S Bothriochloa radicans (Lehm.) A. Camus. Gramineae.","S Enneapogon schimperanus (A. Rich.) Renv. Gramineae.","S Dichanthium annulatum (Forsk) Stapf. Gramineae.","S Cenchrus ciliaris L. Gramineae.","N Tetrapogon tenellus (Roxb) Chiov. Gramineae.","N Tetrapogon villosus Desf. Gramineae."],
+                "AYNAAD": ["(Aynad) C Commiphora microcarpa Chiov. Burseraceae.","C Commiphora erosa Vollesen. Burseraceae.","C Commiphora ciliata Vollesen. Burseraceae."],
+                "AYNAAD-DABAYARE": ["(Ainad-dabaiere) C Commiphora setulifera Chiov. Burseraceae."],
+                "BAAL-BIYOOD": ["(Bal-biot) S Burnatia enneandra Micheli. Alismataceae.","N Scilla carunculifera Chiov. Liliaceae."]
             }
         }
     ]
