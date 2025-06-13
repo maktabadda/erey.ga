@@ -2001,7 +2001,16 @@
                 "AYAX-MAKAREEN": ["(Aiah-macaren) S Bothriochloa insculpta (A.Rich.)A.Camus. Gramineae.","S Bothriochloa radicans (Lehm.) A. Camus. Gramineae.","S Enneapogon schimperanus (A. Rich.) Renv. Gramineae.","S Dichanthium annulatum (Forsk) Stapf. Gramineae.","S Cenchrus ciliaris L. Gramineae.","N Tetrapogon tenellus (Roxb) Chiov. Gramineae.","N Tetrapogon villosus Desf. Gramineae."],
                 "AYNAAD": ["(Aynad) C Commiphora microcarpa Chiov. Burseraceae.","C Commiphora erosa Vollesen. Burseraceae.","C Commiphora ciliata Vollesen. Burseraceae."],
                 "AYNAAD-DABAYARE": ["(Ainad-dabaiere) C Commiphora setulifera Chiov. Burseraceae."],
-                "BAAL-BIYOOD": ["(Bal-biot) S Burnatia enneandra Micheli. Alismataceae.","N Scilla carunculifera Chiov. Liliaceae."]
+                "BAAL-BIYOOD": ["(Bal-biot) S Burnatia enneandra Micheli. Alismataceae.","N Scilla carunculifera Chiov. Liliaceae."],
+                "BAALEEY-BAROORTO": ["(Balei-barorto) S Heliotropium cineriscens DC. Boraginaceae."],
+                "BAAL-XOORE": ["(Bal-hore) S Aristida kelleri Hack. Gramineae."],
+                "BAAMIYE": ["(Bamie) S Abelmoschus esculentus (L) Moench. Malvaceae.","S Abelmoschus ficulneus (L) Wight & Arn. Malvaceae.","S Hibiscus furcatus Willd. Malvaceae.","S Moringa longituba Engl. Moringaceae."],
+                "BAANSAY": ["(Bansai) C Erythrochlamys spectabilis Guerke. Labiatae."],
+                "BAANYO": ["(Bagno) May, S Bleparispermum fruticosum Klatt. Compositae."],
+                "BAANYO-BEEREED": ["(Bagno-beret) S Clerodendrum acerbianum (Vis) Benth & Hook. Verbenaceae."],
+                "BAANYO-MADOW": ["(Bagno-madu) S Vernonia cinerascens Sch.Bip. Compositae."],
+                "BAAR": ["(Bar) C, S, 0g, NFD Hyphaene benadirensis Becc. Palmae.","S, NFD Hyphaene coriacea Gaertn. Palmae.","C,S Commelina albescens Hassk. Commelinaceae.","C Aneilema obbiadense Chiov. Commelinaceae.","C Commelina imberbis Hassk. Commelinaceae.","S Commelina benghalensis L. Commelinaceae.","S Commelina forskalaei Vahl. Commelinaceae.","S Commelina difusa Burm. F. Commelinaceae.","N Commelina boissierana C.B.Cl. Commelinaceae.","N Cyanotis somaliensis C.B.Cl. Commelinaceae.","S Albuca asclepiadea Chiov. Liliaceae.","May Ledobouria somaliensis (Bak). Liliaceae.","N Aloe abyssinica Lam. Liliaceae.","N Dipcadi filamentosum Medic. Liliaceae.","S Drimia paolii Chiov. Liliaceae.","S Gloriosa simplex L. Liliaceae.","N Crinum schimperi K.Schum. Amaryllidaceae.","May Scadoxus multiflorus (Martyn) Raf. Amaryllidaceae.","S Burnatia enneandra Micheli. Alismataceae.","N Craterostigma plantagineum Hochst. Scrophulariaceae.","S Dactyloctenium aegyptiacum (L) Willd. Gramineae.","N Juncus punctorius L.F. Juncaceae."],
+                "BAAR-BIYOOD": ["(Bar-biot) S Burnatia enneandra Micheli. Aleismataceae.","S Bothriochloa radicans (Lehm.) A. Camus. Gramineae."]
             }
         }
     ]
