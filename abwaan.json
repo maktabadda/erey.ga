@@ -2010,7 +2010,19 @@
                 "BAANYO-BEEREED": ["(Bagno-beret) S Clerodendrum acerbianum (Vis) Benth & Hook. Verbenaceae."],
                 "BAANYO-MADOW": ["(Bagno-madu) S Vernonia cinerascens Sch.Bip. Compositae."],
                 "BAAR": ["(Bar) C, S, 0g, NFD Hyphaene benadirensis Becc. Palmae.","S, NFD Hyphaene coriacea Gaertn. Palmae.","C,S Commelina albescens Hassk. Commelinaceae.","C Aneilema obbiadense Chiov. Commelinaceae.","C Commelina imberbis Hassk. Commelinaceae.","S Commelina benghalensis L. Commelinaceae.","S Commelina forskalaei Vahl. Commelinaceae.","S Commelina difusa Burm. F. Commelinaceae.","N Commelina boissierana C.B.Cl. Commelinaceae.","N Cyanotis somaliensis C.B.Cl. Commelinaceae.","S Albuca asclepiadea Chiov. Liliaceae.","May Ledobouria somaliensis (Bak). Liliaceae.","N Aloe abyssinica Lam. Liliaceae.","N Dipcadi filamentosum Medic. Liliaceae.","S Drimia paolii Chiov. Liliaceae.","S Gloriosa simplex L. Liliaceae.","N Crinum schimperi K.Schum. Amaryllidaceae.","May Scadoxus multiflorus (Martyn) Raf. Amaryllidaceae.","S Burnatia enneandra Micheli. Alismataceae.","N Craterostigma plantagineum Hochst. Scrophulariaceae.","S Dactyloctenium aegyptiacum (L) Willd. Gramineae.","N Juncus punctorius L.F. Juncaceae."],
-                "BAAR-BIYOOD": ["(Bar-biot) S Burnatia enneandra Micheli. Aleismataceae.","S Bothriochloa radicans (Lehm.) A. Camus. Gramineae."]
+                "BAAR-BIYOOD": ["(Bar-biot) S Burnatia enneandra Micheli. Aleismataceae.","S Bothriochloa radicans (Lehm.) A. Camus. Gramineae."],
+                "BAAR-BOOR": ["(Bar.bor) S Cadaba sp. Capparidaceae."],
+                "BAAR-MADHOODH": ["(Bar-madod) S Aloe ruspoliana Bak. Liliaceae."],
+                "BAARO": ["(Baro) N Teclea nobilis Del. Rutaceae."],
+                "BAARO-QURUN": ["(Bara-gurun) N Vepris glomerata (F.Hoffm.) Engl. Rutaceae."],
+                "BABBAAY": ["(Babai) N, S Carica papaya L. Caricaceae."],
+                "BACBACLE": ["(Babale) N, C? Pavonia zeylanica Cav. Malvaceae."],
+                "BACAROOR": ["(Baror) N Commiphora drakebrockmanii Sprague. Burseraceae.","C Commiphora longipedicellata Vollesen. Burseraceae.","C Commiphora unilobata Gillett & Vollesen. Burseraceae.","N Commiphora sphaerocarpa Chiov. Burseraceae.","C Commiphora petiolulata ? Burseraceae.","N Commiphora sphaerocarpa Chiov. Burseraceae.","C Commiphora sulcata Chiov. Burseraceae.","May, S Commiphora erlangeriana Engl. Burseraceae.","C Commiphora staphyleifolia Chiov. Burseraceae.","C Commiphora erosa Vollesen. Burseraceae.","S,N? Anthericum corymbosum Bak. Liliaceae."],
+                "BACAROOR-GURI": ["(Baror-guri) S Commiphora erlangeriana Engl. Burseraceae."],
+                "BACAROOR-MADOW": ["(Baror-madu) S Commiphora gileadensis (L)C.Cr. Burseraceae."],
+                "BADHI": ["(Badi) N, Og Chloris roxburghiana Schult. Gramineae.","N Enteropogon barbatus C.E. Hubb. Gramineae.","N Tetrapogon villosus Desf. Gramineae.","N Adenium obesum (Forsk) Roem. & Schult. Apocynaceae."],
+                "BADHI-BADHI": ["(Badi-badi) S, May Rottboellia cochinchinensis (Lour) Clayton. Gramineae."],
+                "BADHI-WEYN": ["(Badi-wein) N Digitaria diagonalis (Nees)Stapf. Gramineae.","N Digitaria rivae (Chiov.) Stapf. Gramineae.","N Tetrapogon villosus Desf. Gramineae.","N Chloris roxburghiana Schult. Gramineae.","N Heteropogon contortus (L) Roem. & Schult. Gramineae.","N Enteropogon barbatus C.E. Hubb. Gramineae.","C Coelachyrum poaeflorum Chiov. Gramineae.","N Adenium obesum (Forsk) Roem. & Schult. Apocynaceae."]
             }
         }
     ]
