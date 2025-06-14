@@ -2151,6 +2151,24 @@
                 "BUULE": ["(Bule) S,C Dasysphaera robecchii Lopr., Amaranthaceae."],
                 "BUUTI-BUUTI": ["(Buti-buti) S Flagellaria guineensis Schumach. Flagellariaceae."]
             }
-        }
+        },
+        {
+            "name": "Qaamuus-Yare Caafimaad: Ingiriis-Soomaali - Deeqa Cali [1999]",
+            "data": {
+                "alcohol": ["(n)* a water soluble molecule; an intoxicating liquor.","aalkolo"],
+                "alcoholic beverage": ["(n) an intoxicating beverage; spirit.","cabitaanka khamrigu ku jiro"],
+                "alcoholism": ["(n) a disorder characterized by excessive alcohol use that causes serious impairment in physical, social or occupational functioning.","khamriyacab"],
+                "alert": ["(adj) attentive and quick to think or act.","digtoonaan"],
+                "alkaline": ["(adj)* relating to or containing an aqueous solution of which is bitter, slippery, and characteristically basic in chemical reactions.","alkalayn"],
+                "allergen": ["(n) a substance that causes an allergy.","waxa xasaasiyad ama xajiin keena"],
+                "allergic": ["(adj) causing allergy; having an allergy","xasaasiyad abuure ama xajiimeeye"],
+                "allergic reaction": ["(n) a physical response to the exposure to an allergen.","xasaasiyad baa ku kacsan ama xajiimooday"],
+                "allergist": ["(n) a physician specializing in allergies.","dhakhtar ku takhasusay xasaasiyadda ama xajiinta"],
+                "allergy": ["(n) an extreme sensitivity to environmental factors or substances, such as pollens, dust, or foods, that cause a pathological response, such as a rash or difficulty in breathing.","xasaasiyad ama xajiimayn"],
+                "allergy shots, immunotherapy": ["(n) an injection to prevent an allergic reaction.","talaalka xasaasiyada"],
+                "alpha-fetoprotein test": ["(n) a test used to detect disease in a fetus and some tumors.","baadhista ilmaha uurka ku jira lagana baadho cudur ama burooyin"],
+                "alternate": ["(v) to change from one to another, sometimes back and forth.","lagu bedeli karo"]
+
+            }}
     ]
 }
