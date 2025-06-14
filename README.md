@@ -16,6 +16,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
    - Juqraafi (Soomaali-Ingiriis) [1987]
  - Gundhigga Astaamaha - Ina Ashkir [2015]
  - Qaamuuska Afmaal: Soomaali-Ingiriis - Saciid [2013]
+ - Qaamuus-Yare Soomaali-Faransiis - Kiristoofe Filibeerti [1976]
  - Magacyada Dhirta Ceel-Dheere iyo Buula-Burte - D. Herloker, B. Kujar [1985]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
