@@ -2149,7 +2149,18 @@
                 "BUURIYEYS": ["(Burieis) N Pterodiscus heterophyllus Stapf. Pedaliaceae."],
                 "BUURTE": ["(Burte) S Salsola dendroides Pall. Chenopodiaceae."],
                 "BUULE": ["(Bule) S,C Dasysphaera robecchii Lopr., Amaranthaceae."],
-                "BUUTI-BUUTI": ["(Buti-buti) S Flagellaria guineensis Schumach. Flagellariaceae."]
+                "BUUTI-BUUTI": ["(Buti-buti) S Flagellaria guineensis Schumach. Flagellariaceae."],
+                "BUUXISO": ["(Buhoso) N Croton gillettii Hutch. & Bruce. Euphorbiaceae.","N Croton confertus Bak. Euphorbiaceae.","N Croton cliffordii Hutch. & Bruce. Euphorbiaceae.","N Justicia minutifolia Chiov. Acanthaceae.","N Justicia odora (Forsk) Lam. Acanthaceae."],
+                "BUUXIYE": ["(Buhiye) N Croton gillettii Hutch. & Bruce. Euphorbiaceae.","N Croton confertus Bak. Euphorbiaceae.","N Croton cliffordii Hutch. & Bruce. Euphorbiaceae.","N Justicia minutifolia Chiov. Acanthaceae.","N Justicia odora (Forsk) Lam. Acanthaceae."],
+                "BUUXOW": ["(Buhou) C Neurocanthus polyacanthus (Lindau) C.B.Cl. Acanthaceae.","C Neurocanthus preacanus Bidgood & Brummitt. Acanthaceae."],
+                "CAAD": ["(A'd) S, May, N Annona squimosa L. Annonaceae."],
+                "CAANO-DHIGE": ["(Ana-diche) N Lantana petitiana Rich. Verbenaceae."],
+                "CAANO-DHUUQ": ["(Ano-dug) N Orthosiphon somalensis Vatke. Labiatae.","S, C Cenchrus ciliaris L. Gramineae.","S Chloris virgata SW. Gramineae."],
+                "CAANO-MACEYS": ["(Anamais) C, N Cadaba longifolia DC. Capparidaceae.","N Cadaba farinosa Forsk. Capparidaceae.","S, NFD Maerua crassifolia Forsk. Capparidaceae.","S Commiphora paolii Chiov. Burseraceae.","S Commiphora africana (A.Rich.)Engl. Burseraceae.","C Commiphora ellenbeckii Engl. Burseraceae.","N Pavetta gardeniifolia A.Rich. Rubiaceae.","C Commiphora bruceae Chiov. Burseraceae.","N Tarenna graveolens (S. Moore) Bremek. Rubiaceae.","May, S Croton menyhartii Pax. Euphorbiaceae.","S Aristolochia rigida Duch. Aristolochiaceae.","N Carolluma turneri E.A.Bruce. Asclepiadaceae.","C Digitaria nodosa Parl. Gramineae."],
+                "CAANO-XAARAA": ["(Ano-hara) C Dicoma sp. Compositae."],
+                "CAANO-XARAARISHE": ["(Ano-hararishe) C, S. Erlangea somalensis 0.Hoffm. Compositae.","S Launaea cornuta (Oliv & Hiern)Jeffrey Compositae.","C Helichrysum somalense Bak.F. Compositae."],
+                "CAANO-XARAARIYE": ["(Ano-hararie) C, S. Erlangea somalensis 0.Hoffm. Compositae.","S Launaea cornuta (Oliv & Hiern)Jeffrey Compositae.","C Helichrysum somalense Bak.F. Compositae."]
+
             }
         },
         {
@@ -2168,7 +2179,22 @@
                 "allergy shots, immunotherapy": ["(n) an injection to prevent an allergic reaction.","talaalka xasaasiyada"],
                 "alpha-fetoprotein test": ["(n) a test used to detect disease in a fetus and some tumors.","baadhista ilmaha uurka ku jira lagana baadho cudur ama burooyin"],
                 "alternate": ["(v) to change from one to another, sometimes back and forth.","lagu bedeli karo"]
-
-            }}
+            }
+        },
+        {
+            "name": "Qaamuuska Magacyada Soomaalida: Soomaali-Ingiriis - Anwar Maxamed Diiriye [2006]",
+            "data": {
+                "Aar": ["nickname; name-m adult male lion; revenge, vengeance. Lit: very brave man"],
+                "Aare": ["nickname; name-m revenger; he who revenges; braver"],
+                "Aawe": ["name-m reason, sake. Cf: Aawo"],
+                "Aayow": ["name-m future, destiny; benefit from"],
+                "Abaadi": ["name-m longevity; long life"],
+                "Abasguul": ["name-m see-off the water caravan. Lit: he who is born when the water caravan starts its journey to the well during the night"],
+                "Abayle": ["nickname; name-m weaned (child abandoned by his mother; baby that has been weaned)"],
+                "Abbow": ["name-m brother"],
+                "Abgaal": ["name-m camel's descent, lit: he who his ancestor owns many camels"],
+                "Abiib": ["name-m father of the reliable one. Syn: Abuubakar"]
+            }
+        }
     ]
 }
