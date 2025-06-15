@@ -26,6 +26,7 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan Xaashi, Cawil Xaashi [1995]
 - Qaamuuska Magacyada Dhirta Soomaaliyeed (Soomaali-Ingiriis) - Axmed M. I. Barkhadle [1990]
 - Qaamuus-Yare Caafimaad: Ingiriis-Soomaali - Deeqa Cali [1999]
+- Qaamuuska Magacyada Soomaalida: Soomaali-Ingiriis - Anwar Maxamed Diiriye [2006]
 
 
 mashruucan wuxuu hoosyimaadaa
