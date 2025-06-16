@@ -2310,7 +2310,22 @@
                 "COWS-MALIILEY": ["(Aus-malilei) S  Boerhavia cuccinea Mill Nyctaginaceae."],
                 "COWS-MARABOOB": ["(Os-marabob) N Setaria verticillata (L)P. Beauv. Gramineae."],
                 "COWS-MULAAX": ["(Os-mulah) C Afrotrchioris hyaloptera Clayton. Gramineae.","C Afrotrichloris martinii Chiov. Gramineae.","C Digitaria macroblephara (Hack.)Stapf. Gramineae.","C Dichathium faveolatum (Del.)Roberty.","C Hyparrhenia hirta (L) Stapf. Gramineae.","C Enneapogon schimperanus (A. Rich.) Renv. Gramineae.","C Aristida stenophylla Henr. Gramineae.","C Urochondra setulosa (Trin)Hubb. Gramineae.","C Sporobolus consimilis Fresen. Gramineae."],
-                "COWS-MUNDUL": ["(Aos-mundul) S Echinochloa colona (L) Link. Gramineae."]
+                "COWS-MUNDUL": ["(Aos-mundul) S Echinochloa colona (L) Link. Gramineae."],
+                "COWS-QAALMO-WEYNEYS": ["(Os-galmo-weineis) S Urochloa panicoides P.Beauv. Gramineae."],
+                "COWS-QARDO": ["(Os-gardo) S Aristida adscensions L. Gramineae."],
+                "COWS-QARIN": ["(Os-garin) N Themeda triandra Forsk. Gramineae."],
+                "COWS-QASAA": ["(Aus-khasa) N Enteropogon barbatus C.E. Hubb. Gramineae.","N Tetrapogon bidentatus Pilg. Gramineae."],
+                "COWS-QURUN": ["(Aus-gurun) N Cymbopogon commutatus (Steud.)Stapf. Gramineae.","N Cymbopogon scoenanthus (L) Spreng. Gramineae.","N Dichanthium foveolatum (Del.) Roberty.","N Dichanthium annulatum (Forsk.) Stapf. Gramineae.","N Enteropogon barbatus C.E.Hubb. Gramineae."],
+                "COWS-SHIIR": ["(Os-shir) S Indigofera microcarpa Desv. Papilionaceae.","S Indigofera schimperi Jaub. & Spach. Papilionaceae."],
+                "COWS-SHILBOOLE": ["(Os-scilbole) S,C Alysicarpus rugosus (Willd) DC. Papilionaceae."],
+                "COWS-SIFAAR": ["(Os-sifar) N, C Sporobolus ruspolianus Chiov. Gramineae."],
+                "COWS-SUGUL": ["(Os-sugul) S Echinochloa crist-galli (L)P.Beauv. Gramineae."],
+                "COWS-TIMOOLE": ["(Aus-timole) N Danthoniopsis barbata (Nees) C.E.Hubb. Gramineae."],
+                "COWS-UF": ["(Aus-uf) C Gnidia latifolia (Oliv.)Gilg Thymelaeceae."],
+                "COWS-WEYN": ["(Os-uen) S, C Echinochloa haplocalda (Stapf) Stapf. Gramineae.","S Eriochloa meyerana (Nees)Pilg. Gramineae."],
+                "COWS-YEEBIN": ["(Os-jebin) S Tetrapogon tenellus (Roxb) Chiov. Gramineae."],
+                "CUDBI": ["(Odbi) N, Og Gossypium sp. Malvaceae.","N,Og Gossypium herbaceum L. Malvaceae."],
+                "CUSBOOLE": ["(Osbole) N Limonium somalorum (Vierh) Hutch & Bruce. Plumbaginaceae.","N, C? Limonium axillare (Forsk)0.Kuntze. Plumbaginaceae.","N Limonium carinense (Chiov.)Cuf. Plumbaginaceae."]
             }
         },
         {
