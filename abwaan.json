@@ -2672,7 +2672,16 @@
                 "GEED-BAL": ["(Ged-bal) S,C? Maerua macrocarpa Chiov. Capparidaceae."],
                 "GEED-BEEREED": ["(Ged-bered) S Pupalia lappacea (L)A.Juss Amaranthaceae."],
                 "GEED-BEEY": ["(Gedbei) C, S, N? Aristolochia rigida Duch. Aristolochiaceae."],
-                "GEED-BIYOOD": ["(Ghed-bio) C, S Reseda oligomeroides Schinz. Resedaceae.","S Psoralea corylifolia L. Papilionaceae.","May Phyllanthus somalensis Hutch. Euphorbiaceae.","S Sesbania sesban (L) Merr. Papilionaceae.","May Acalypha fruticosa Forsk. Euphorbiaceae.","S Antidesma venosum Tul. Euphorbiaceae.","May Aeschynomene indica L. Papilionaceae.","May Glinus setiflorus Forsk. Aizoaceae."]
+                "GEED-BIYOOD": ["(Ghed-bio) C, S Reseda oligomeroides Schinz. Resedaceae.","S Psoralea corylifolia L. Papilionaceae.","May Phyllanthus somalensis Hutch. Euphorbiaceae.","S Sesbania sesban (L) Merr. Papilionaceae.","May Acalypha fruticosa Forsk. Euphorbiaceae.","S Antidesma venosum Tul. Euphorbiaceae.","May Aeschynomene indica L. Papilionaceae.","May Glinus setiflorus Forsk. Aizoaceae.","S Hibiscus dongolensis Dél. Malvaceae.","May Sesbania sericea (Willd) Link. Papilionaceae.","S, N Corchorus trilocularis L. Tiliaceae.","May Heliotropium supinum L. Boraginaceae.","May Heliotropium zeylanicum (Burm) Lam. Boraginaceae.","S Psoralea carylifolia L. Papilionaceae."],
+                "GEED-BOHOLEED": ["(Ged-boholet) S Croton talaeporos A. Radc-Sm. Euphorbiaceae."],
+                "GEED-BOOCO": ["(Ged-bo') All.Som. Calotropis procera (Ait) Ait.F. Asclepiadaceae."],
+                "GEED-BUDAALE": ["(Ged-budale) S Coccinia grandis (L)Voigt. Cucurbitaceae."],
+                "GEED-BUN": ["(Ged-bun) May Solanum jubae Bitter. Solanaceae.","S Acalypha volkensii Pax. Euphorbiaceae.","S Solanum carense Dum. Solanaceae."],
+                "GEED-BUN-BUN": ["(Ged-bun-bun) S Acalypha volkensii Pax. Euphorbiaceae."],
+                "GEED-BUUREED": ["(Ged-Bured) May Acridocarpus glaucescens Engl. Malpighiaceae.","May,S Tarenna graveolens (S. Moore) Bremek. Rubiaceae.","May Manilkara sulcata (Eng).)Dubard. Sapotaceae.","May vepris eugeniifolia (Engl.) Verdoorn. Rutaceae.","May Hippocratea crenata (Kltzsch)K.Schum. Celastraceae.","May Nectaropetalum kaessneri Engl. Erythroxylaceae.","S Mundulea sericea (Willd) A. Chev. Papilionaceae.","May Afzelia quazensis Welw. Caesalpinaceae."],
+                "GEED-CAAD": ["(Ged-add) N Teucrium polium L. Labiatae."],
+                "GEED-CAAN": ["(Ged-an) N Jatropha brockmanii Hutch. Euphorbiaceae.","N Jatropha palmatifida Bak. Euphorbiaceae.","N Jatropha phillipsiae Rendle Euphorbiaceae.","N Jstropha spinosa (Forsk) Vahl. Euphorbiaceae."],
+                "GEED-CAANOOD": ["(Ged-anod) S Euphorbia granulata Forsk. Euphorbiaceae.","S Euphorbia hirta L. Euphorbiaceae.","S Pergularia daema (Forsk)Chiov. Asclepiadaceae.","C Euphorbia somalensis Pax. Euphorbiaceae.","S Euphorbia indica Lam. Euphorbiaceae."]
 
 
             }
