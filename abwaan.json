@@ -2655,7 +2655,25 @@
                 "GAROORSHE": ["(Garorsce) C Canthium glaucum Hiern. Rubiacaeae.","C Meyna tetraphylla (Hiern) Robyns. Rubiaceae.","C Maytenus obbiadensis (Chiov.)Cuf. Celastraceae.","S Euphorbia sp. Euphorbiaceae."],
                 "GARRI": ["(Garri) N Barbeya oleoides Schweinf. Barbeyaceae."],
                 "GARROW": ["(Garew) C Cenchrus ciliaris L. Gramineae.","C Panicum atrosanguineum A.Rich. Gramineae.","C Sporobolus somalensis Chiov. Gramineae.","C Sporobolus spicatus (Vahl) Kunth. Gramineae.","N Cenchrus pennisetiformis Steud. Gramineae.","N Aeluropus lagopoides (L) Trimen. Granineae.","C Digitaria pennata (Hochst.)T. Cooke, Gramineae.","C Dignathia hirtella Stapf. Gramineae.","S Erlangea conica Chiov. Compositae.","N, C Gisekia pharnaceoides L. Aizoaceae.","S Gloriosa simplex L. Liliaceae."],
-                "GARROWLE": ["(Garewle) C Cenchrus ciliaris L. Gramineae.","C Panicum atrosanguineum A.Rich. Gramineae.","C Sporobolus somalensis Chiov. Gramineae.","C Sporobolus spicatus (Vahl) Kunth. Gramineae.","N Cenchrus pennisetiformis Steud. Gramineae.","N Aeluropus lagopoides (L) Trimen. Granineae.","C Digitaria pennata (Hochst.)T. Cooke, Gramineae.","C Dignathia hirtella Stapf. Gramineae.","S Erlangea conica Chiov. Compositae.","N, C Gisekia pharnaceoides L. Aizoaceae.","S Gloriosa simplex L. Liliaceae."]
+                "GARROWLE": ["(Garewle) C Cenchrus ciliaris L. Gramineae.","C Panicum atrosanguineum A.Rich. Gramineae.","C Sporobolus somalensis Chiov. Gramineae.","C Sporobolus spicatus (Vahl) Kunth. Gramineae.","N Cenchrus pennisetiformis Steud. Gramineae.","N Aeluropus lagopoides (L) Trimen. Granineae.","C Digitaria pennata (Hochst.)T. Cooke, Gramineae.","C Dignathia hirtella Stapf. Gramineae.","S Erlangea conica Chiov. Compositae.","N, C Gisekia pharnaceoides L. Aizoaceae.","S Gloriosa simplex L. Liliaceae."],
+                "GARROW-DABOOD": ["(Garow-biot) N Sporobolus spicatus (Vahl) Kunth. Gramineae."],
+                "GAROWLE-CADDE": ["(Garaule-ade) C Athroisma lobatum (Klatt) Mattf. Compositae."],
+                "GARXIDH": ["(Garhid) N Cyanotis somaliensis C.B.CL. Commelinaceae.."],
+                "GASAAJO": ["(Gasacio) S Symphyochlamys erlangeri Guerke Malvaceae."],
+                "GASAANGAS": ["(Gasangas) C, May N? Momordica sessilifolia Cogn. Cucurbitaceae."],
+                "GEDUUD": ["(Ghedud) S Ixora narcissodora K.Schum. Rubiaceae."],
+                "GEED": ["(Gaed) Acanthus gaed Lindau Acanthaceae."],
+                "GEED-ABEES": ["(Ged-abes) S, C Adenia aculeata (Hook. F.) Engl. Passifloraceae."],
+                "GEED-ABOODI": ["(Ged-aboti) C Kelleronia gilletii Bak.F. Zygophyllaceae.","C Kelleronia obbiadensis Chiov. Zygophyllaceae.","C Tribulus cistoides L. Zygophyllaceae."],
+                "GEED-ADAG": ["(Ged-adag) S, C Canthium pseudosetiflorum Bridson. Rubiaceae."],
+                "GEED-ADARI": ["(Ged-adari) N, Og Petroselinum crispum (Mill) Nym.ex A.W.Hill. Umbelliferae."],
+                "GEED-BADOWI": ["(Ged-badowi) N Steganotaenia araliacea Hochst. Umbelliferae."],
+                "GEED-BAHAL": ["(Ged-bahl) May Aerva javanica (Brum.F.) Schultes Amaranthaceae."],
+                "GEED-BAL": ["(Ged-bal) S,C? Maerua macrocarpa Chiov. Capparidaceae."],
+                "GEED-BEEREED": ["(Ged-bered) S Pupalia lappacea (L)A.Juss Amaranthaceae."],
+                "GEED-BEEY": ["(Gedbei) C, S, N? Aristolochia rigida Duch. Aristolochiaceae."],
+                "GEED-BIYOOD": ["(Ghed-bio) C, S Reseda oligomeroides Schinz. Resedaceae.","S Psoralea corylifolia L. Papilionaceae.","May Phyllanthus somalensis Hutch. Euphorbiaceae.","S Sesbania sesban (L) Merr. Papilionaceae.","May Acalypha fruticosa Forsk. Euphorbiaceae.","S Antidesma venosum Tul. Euphorbiaceae.","May Aeschynomene indica L. Papilionaceae.","May Glinus setiflorus Forsk. Aizoaceae."]
+
 
             }
         },
