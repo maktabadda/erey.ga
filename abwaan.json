@@ -2630,7 +2630,24 @@
                 "FULAAY-BOORBOOR": ["(Fulai-borbor) S  Acacia drepanolobium Sjoestedt. Mimosaceae."],
                 "FULAAY-CAD": ["(Fulai-ad) S Acacia seyal Del. Mimosaceae."],
                 "FURBUNDOOLE": ["(Furbunole) N Athroisma lobatum (Klatt) Mattf. Compositae."],
-                "FURGURGUR": ["(Furgurgur) NFD Cassiatrothae Harms. Caesalpinaceae."]
+                "FURGURGUR": ["(Furgurgur) NFD Cassiatrothae Harms. Caesalpinaceae."],
+                "FUULAAY": ["(Fulai) S Oncocalyx kelleri (Engl.)Gilbert. Loranthaceae.","S Tapinanthus sansibarensis (Engl) Danser. Loranthaceae.","S Erianthemum dregei (Eckl. & Zeyh.)Van Tiegh. Loranthaceae."],
+                "GAARGEY": ["(Gargei) C Commiphora gowlello Sprague. Burseraceae."],
+                "GABALDAYE": ["(Gabaldaie) All. Som. Helianthus annus L. Compositae.","S Helianthus laetiflorus ? Compositae.","N Crotalaria saltiana Andr. Papilionaceae.","N Indigofera coerulea Roxb. Papilionaceae.","N Indigofera articulata Gouan. Papilionaceae.","N Indigofera argentea Burm. Papilionaceae.","N Tragia brevipes Pax. Euphorbiaceae."],
+                "GABAL-GORAY": ["(Gabal-gorei) N, C? Rhyncosia valutina Wight & Arn. Papilionaceae."],
+                "GABRAAR": ["(Gobrar) N, C Commiphora chiovendana Gillett. Burseraceae.","C Commiphora horrida Chiov. Burseraceae.","S, C Commiphora rostrata Engl. Burseraceae.","S Commiphora habessinica (0.Berg.)Engl. Burseraceae."],
+                "GABSAS": ["(Gabsas) C Pergularia daema (Forsk) Chiov. Asclepiadaceae."],
+                "GABUULI": ["(Gabuli) May Gardenia volkensii K.Schum. Rubiaceae."],
+                "GACMO-DHEERE": ["(Ga' mo-dere) N Entada leptostachya Harms. Mimosaceae."],
+                "GAHEYDH": ["(Gaheir) N Blepharispermum fruticosum Klatt. Compositae."],
+                "GALEEY": ["(Galei) Al1. Som. Zea mays L. Gramineae."],
+                "GALOOL": ["(Galol) All.Som. Acacia bussei Sjoestedt. Mimosaceae."],
+                "GAMANE": ["(Gamane) S Zaleya pentandra (L) Jeffrey. Aizoaceae."],
+                "GAMOOR": ["(Gamor) S Phyllanthus somalensis Hutch. Euphorbiaceae."],
+                "GAMOOR-CADDE": ["(Gamor-adde) S Flueggea virosa (Willd.)Voigt. Euphorbiaceae."],
+                "GARAS": ["(Garas) All. Som. Dobera glabra (Forsk.) Poir. Salvadoraceae.","S Dobera loranthifolia (Warb.) Harms. Gramineae."],
+                "GARBABOLETI": ["(Garbaboleti) S Capparis tomentosa Lam. Capparidaceae."]
+
             }
         },
         {
