@@ -2288,9 +2288,28 @@
                 "bronchoscopy": ["(n) a slender tubular instrument with a small light on the end for inspection of the interior of the bronchi.","qalabka dhuuban, afka horena ku leh nal lagu arki karo gudaha laamaha hawado marto ee saambabada"],
                 "bronchospasm": ["(n) uncontrollable movement of the smooth muscle of the bronchi, as occurs in asthma.","muruqyadaa laamaha hawado marto sii xad la'aan ah u dhaqdhaqaaq marka neefta ama xiiqdo haysa"],
                 "bronchus": ["(n) the air passages beyond the windpipe that provide a way for air to enter the lungs.","hunguri cadka ayaa laba laamood u kala qaybsama, laaniba waxay gashaa sambab, laamahasii baa leh meelo hawado u sii marta sambabada"],
-                "bruise": ["(n) an injury in which the skin is not broken; contusion.","nabarka aan dilaacin"]
-
-
+                "bruise": ["(n) an injury in which the skin is not broken; contusion.","nabarka aan dilaacin"],
+                "buccal": ["(adj) pertaining to or directed toward the cheek or mouth.","dalqada"],
+                "bullet": ["(n) a spherical or pointed projectile that is fired from a pistol, rifle, or gun.","xabbad"],
+                "bullet wound": ["(n) the injury caused by a bullet.","dhaawac xabbadeed"],
+                "bunion": ["(n) a painful, inflamed swelling on the big toe.","suulka cagta bararay"],
+                "burn": ["burn (n) an injury produced by fire, heat, or a heat-producing agent.","gubasho","burn (v) to damage or injure by fire, heat, or a heat-producing agent","gubtay"],
+                "burning pain": ["(n) physical discomfort marked by intense heat.","hafeefasho"],
+                "burning sensation": ["(n) feeling marked by intense heat.","kulayl"],
+                "burp": ["(v) to belch, esp. after feeding.","daaco"],
+                "bursitis": ["(n) inflammation of a sac-like bodily cavity, esp. one located between the joints or at points of friction between to moving structures.","xanuun ah gudaha jiran siiba kuwa u dhexeeya xubnaha meeshay iskaga yimaadan ama ka dhaqaaqan"],
+                "business office": ["(n) a location where a person engages in an occupation, work, or trade","xafiiska diiwaan gelinta, iyo biil bixinta ee xarumaha caafimaadka"],
+                "bust": ["bust (n) (m) the women's chest; breasts.","laabta haweenka ama naasaha","bust (v) (mi) to break or fracture a bone into parts.","jabis ama dilaac"],
+                "buttock": ["(n) either of the two rounded, fleshy parts of the rump or backside of a human.","badhi ama dabo"],
+                "bypass": ["(n) (w) an alternative passage created surgically between two blood vessels, especially to avoid an obstruction.","isku talaalis laba xidid"],
+                "caffeine": ["(n) a bitter substance found in coffee, tea, and soda, and used as a stimulant or diuretic.","kaafiinta waxa laga hela koofiga, shaaha iyo cabitaanka sida kookaha, dhadhan qadhaadha"],
+                "calcium deficiency": ["(n) low levels of calcium in the blood preventing proper functioning of the body; see deficiency.","ka yaraashaha macdanta lafa dhista ee kaalshim"],
+                "calcium": ["(n) a silvery, moderately hard metallic element essential to the proper functioning of the human body, found mostly in bone and teeth.","macdan laga helo cuntada qaarkeed mihiina u ah shaqada jidhka dad siiba lafaha iyo ilkaha"],
+                "calculus": ["(n) a stone found in the body, esp. bladder, kidneys, urethra, and ureter; gallstone; kidney stone.","dhagax"],
+                "calf": ["(n) (w) the fleshy, muscular back part of the human leg between the knee and ankle.","buruc ama kub"],
+                "callus": ["(n) a localized thickening and enlargement of the skin.","kurxin"],
+                "calm down": ["(v) to become quiet; to lack or restrict movement; to become peaceful.","is deji"],
+                "calorie": ["(n) any of several approximately equal units of heat, each measured as the quantity of heat required to raise the temperature of 1 gram of water 1 degree Celsius.","waa qiyaasah loo isticmaalo qiyaasta awood jidhku ka helo cuntada"]
 
             }
         },
