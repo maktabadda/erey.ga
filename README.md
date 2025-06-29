@@ -20,6 +20,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Magacyada Dhirta Ceel-Dheere iyo Buula-Burte - D. Herloker, B. Kujar [1985]
  - Qaamuuska Magacyada Dhirta Soomaaliyeed (Soomaali-Ingiriis) - Axmed M. I. Barkhadle [1990]
  - Qaamuus-Yare Caafimaad: Ingiriis-Soomaali - Deeqa Cali [1999]
+ - Qaamuuska Magacyada Soomaalida: Soomaali-Ingiriis - Anwar Maxamed Diiriye [2006]
 
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
@@ -27,7 +28,6 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
 - Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan Xaashi, Cawil Xaashi [1995]
-- Qaamuuska Magacyada Soomaalida: Soomaali-Ingiriis - Anwar Maxamed Diiriye [2006]
 
 
 mashruucan wuxuu hoosyimaadaa
