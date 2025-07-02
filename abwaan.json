@@ -2139,9 +2139,31 @@
                 "abrupt": ["/abrapt/abruptly; (adj) 1. wax kadis kuugu dhaca, lama filaan. e.g. The meeting came to an abrupt end. (adv) 2. qof u hadla si qabiidnimo ah oo edeb daran. e.g. I would not have spoken so abruptly if I'd known you were ill."],
                 "abscess": ["/aabses/ (n) malax."],
                 "abscond": ["/abiskond/ (v) wax si qarsoodi ah loola baxsado, ama qof dhuuntay ama baxsaday. e.g. He absconded with the public funds."],
-                "absence": ["/absansi/absences; (n) maqnaansho. e.g. The class was very noisy during the teacher’s absence."],
+                "absence": ["/absansi/absences; (n) maqnaansho. e.g. The class was very noisy during the teacher's absence."],
                 "absentee": ["/absantii/ (n) qofka ka magan meeshii laga rabay inuu joogo. e.g. There were no absentees in the class that day."],
-                "absent-minded": ["/ (adj) maqane jooge, qofka kula jooga hadana maahsan. e.g. Some of the students are absent-minded when it comes to remembering their homework."]
+                "absent-minded": ["/ (adj) maqane jooge, qofka kula jooga hadana maahsan. e.g. Some of the students are absent-minded when it comes to remembering their homework."],
+                "absolute": ["/absalut/absolutely; (adj) 1. dhamaystiran (adv) 2. wax aad carrabka ku adkeynaysid in ay sax ama run yihiin. e.g. You’re absolutely right about the news."],
+                "absolution": ["/absaluushan/ (n) cafis , dambi dhaaf."],
+                "absolve": ["/absolv/absolves, absolving, absolved; (v) gof dambi loo haystay lugu waayey, bari ka ah. e.g. The President is absolved from blame and responsibility over the company’s loss."],
+                "absorb": ["/absoorb/absorbs, absorbing absorbed; (v) 1. dhuugid ama nuugid. e.g. Plants absorb water through their roots. 2. wax la liqay ama lala wareegay. e.g. small companies are often absorbed by larger ones."],
+                "absorbent": ["/absorbant/ (adj) alaab ama qalab wax nuuga sida isbuunyada."],
+                "absorption": ["/absoorbshan/ (n) 1. nuugitaan, dhuuqis. e.g. the absorption of water by a towel. (n) 2. wax aad danaynaysid (xiisaynaysid). e.g. He has an absorption in his studies."],
+                "abstain": ["/absteyn/abstains, abstaining, abstained; (v) 1. iska deyn wax aad sameyn jirtay, ka caagid. e.g. He will abstain from sleeping for two days. (v) 2. arrin ama doorasho aadan codkaaga ka dhiiban (ka aamustid). e.g. He abstained during the vote."],
+                "abstemious": ["/abstemiyas/ (adj) qofka iska joojiya ama wax yar ka qaata wax naftiisu rabto sida cuntada, cabidda. e.g. He is an abstemious eater."],
+                "abstract": ["/abstrakt/abstracts, abstracting, abstracted; (adj) wax aan la taaban karin."],
+                "absurd": ["/abserdh/absurdity; (adj) aan macquul ahayn. e.g. The government policies are absurd."],
+                "abundance": ["/abandhans/abundant; (n) wax aad u badan, qaraq. e.g. An abundance of food was spread out on the buffet table."],
+                "abuse": ["/abyuus/abuses, abusing, abused; (n) 1. caay ama aflagaado. e.g. She abuses her children. (v) 2. gof inaad ku xad gudubtid. e.g. The patients were physically abused. (n) 3. wax aad si khalad ah u isticmaashid. e.g. Drug abuse is increasing in North America."],
+                "abysmal": ["/abismal/ (adj) wax la liidayo ama aan tayo badan lahayn."],
+                "abyss": ["/abis/ (n) 1. god dheer oo aan guntiisa la gaari karin (n) 2. xaalad baqdin leh sida dagaalka 3aad ee adduunka."],
+                "AC": ["/ey sii/ (n) danabka qulqula ee korontada (alternating current oo la soo gaabiyey)."],
+                "academic": ["/akademik/ (adj) waxbarashada ama manhajka iskuulaadka."],
+                "academically": ["/akadamikali/ (adv) manhaj ahaan, waxbarasha ahaan."],
+                "academy": ["/akadami/ (n) dugsi tacliin sare oo loogu tala galay waxbarasho gaar ah. e.g. the Lafoole Academy of Arts."],
+                "accede": ["/aksiid/accedes, acceding, acceded; (v) arrin aad gof ku raacdid ama u ogalaatid. e.g. I can’t accede to your request."],
+                "accelerate": ["/akselarayt/accelerates, accelerating, accelerated; (v) 1. sheelarayn, karaarsiin. e.g. He accelerated the car. (v) 2. dadajin, ku dhakhsasho."],
+                "accelerator": ["/akselaratar/ (n) sheelare (qalabka lugu istaago si xawaaraha loo kordhiyo)."],
+                "accent": ["/aksent/accents, accenting, accented; (n) 1. luqad si duwan loogu dhawaaqo ama loogu hadlo; lahjad. e.g. Hibo has a strong French accent. (n) 2. xarakada lugqad lugu dhigo oo dhawaaga badasha sida tan Carabiga."]
             }
         }
     ]
