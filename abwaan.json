@@ -1918,7 +1918,7 @@
             }
         },
         {
-            "name": "Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan A. Xaashi, Cawil Cali Xaashi [1995]",
+            "name": "Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1995]",
             "data": {
                 "a":["a': (alif) the first letter of Somali al-phabet, according to the style adopted by this dictionary, it is a vowel letter ~ shaqal.","a': (suffix) [the] definite article of some masculine nouns. Ex. arag; aragga; the sight, in English, the indefinite articles are a and an and the definite article is the.","a': (suffix) —s; used to form the third person masculine plural present tense of verbs. Ex: friya; that looks..; maqla; that hears; hurda; that sleeps; Ex: xayawaanka cawska cuna...; animals that eats grass..."],
                 "aa":["aa': (n) long vowel of letter A. Ex: aabbe; father. Caano; milk.","aa?: (suffix); —ing; used to form the present continuous tense. Ex: ma socotaa; are you going; Wuu hurdaa; he is sleeping."],
@@ -2090,7 +2090,7 @@
             }
         },
         {
-            "name": "Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan A. Xaashi, Cawil Cali Xaashi [1993]",
+            "name": "Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1993]",
             "data": {
                 "A, a": ["/ey/ xarafka koowaad ee alifbeetada Ingiriisiga."],
                 "aback": ["/abak/ (adj) 1. gadaale.(v) 2. taken aback; amakaagid (yaabid)."],
@@ -2130,7 +2130,18 @@
                 "abortive": ["/abortif/ (adj) 1. dhicisoobey. (adj) 2. lugu guul daraystay. e.g. The police made an abortive attempt to rescue the little girl."],
                 "abound": ["/abowndh/abounds, abounding, abounded; (v) wax tiro badan ama xaddi badan. e.g. The world of science fiction abounds with wonders."],
                 "about": ["/abbowt/ (prep) 1. ku saabsan. e.g. This is a book about Somalia. 2. qiyaastii. e.g. There were about ten students in the class."],
-                "above": ["/abbav/ (prep) 1. ka koreeya, kor. e.g. He lives in the apartment above the store. 2. ka badan."]
+                "above": ["/abbav/ (prep) 1. ka koreeya, kor. e.g. He lives in the apartment above the store. 2. ka badan."],
+                "abrasion": ["/abreyshan/abrasions; (n) 1. meel gofka jirkiisa diirku ka qaadmay. e.g. There was an abrasion on his thigh. (n) 2. xoqnaan."],
+                "abrasive": ["/abreysiv/ (adj) 1. qofka aan naxariista lahayn oo waji macbuuska ah. e.g. He is an abrasive person. 2. shay adag oo wax lugu nadiifiyo. e.g. He used an abrasive cleanser for the bathtub."],
+                "abreast": ["/abrest/ (adj) 1. dad ama wax is dhinac socda. e.g. Two cars were racing abreast. (adj) 2. ka war hayn. e.g. The press kept abreast of each new development."],
+                "abridged": ["/abrijid/ (adj) wax la soo gaabiyey, buug ama ciyaar oo kale. e.g. This is an abridged version of the book."],
+                "abroad": ["/abroodh/ (adv) 1. dibadda, dal shisheeye, dal qalaad. e.g. I was abroad on holiday. (adv) 2. ku baahid, fidid."],
+                "abrupt": ["/abrapt/abruptly; (adj) 1. wax kadis kuugu dhaca, lama filaan. e.g. The meeting came to an abrupt end. (adv) 2. qof u hadla si qabiidnimo ah oo edeb daran. e.g. I would not have spoken so abruptly if I'd known you were ill."],
+                "abscess": ["/aabses/ (n) malax."],
+                "abscond": ["/abiskond/ (v) wax si qarsoodi ah loola baxsado, ama qof dhuuntay ama baxsaday. e.g. He absconded with the public funds."],
+                "absence": ["/absansi/absences; (n) maqnaansho. e.g. The class was very noisy during the teacher’s absence."],
+                "absentee": ["/absantii/ (n) qofka ka magan meeshii laga rabay inuu joogo. e.g. There were no absentees in the class that day."],
+                "absent-minded": ["/ (adj) maqane jooge, qofka kula jooga hadana maahsan. e.g. Some of the students are absent-minded when it comes to remembering their homework."]
             }
         }
     ]
