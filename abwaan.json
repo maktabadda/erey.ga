@@ -1918,7 +1918,7 @@
             }
         },
         {
-            "name": "Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan Xaashi, Cawil Xaashi [1995]",
+            "name": "Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan A. Xaashi, Cawil Cali Xaashi [1995]",
             "data": {
                 "a":["a': (alif) the first letter of Somali al-phabet, according to the style adopted by this dictionary, it is a vowel letter ~ shaqal.","a': (suffix) [the] definite article of some masculine nouns. Ex. arag; aragga; the sight, in English, the indefinite articles are a and an and the definite article is the.","a': (suffix) —s; used to form the third person masculine plural present tense of verbs. Ex: friya; that looks..; maqla; that hears; hurda; that sleeps; Ex: xayawaanka cawska cuna...; animals that eats grass..."],
                 "aa":["aa': (n) long vowel of letter A. Ex: aabbe; father. Caano; milk.","aa?: (suffix); —ing; used to form the present continuous tense. Ex: ma socotaa; are you going; Wuu hurdaa; he is sleeping."],
@@ -2044,7 +2044,7 @@
                 "aasnaan":["-ta: (n) a condition or state of being buried"],
                 "-aato":["(suffix)-, if she... Ex: hadday jeclaato; if she likes; hadday fiicnaato; ifshe gets better"],
                 "aawaday":["(preposition) for my sake ~ dartay. Ex: waxay u joogeen aawaday; they stayed for my sake"],
-                "aawadeed":["(preposition) for it’s or her sake ~ darteed, awgeed"],
+                "aawadeed":["(preposition) for it's or her sake ~ darteed, awgeed"],
                 "aawadiis":["(preposition) 1. for his sake - dartiis, awgiis 2. because of"],
                 "aaway?":["[aawey] (adv) where? (weer); at or in what place?. Ex: Aaway taleefoonkii? where is the telephone?"],
                 "aawaye?":["(adv) [aaweye] where are they? - meeye. Ex: Carruurtii aawaye? where are the children?"],
@@ -2087,6 +2087,38 @@
                 "yuu":["(interrogative word) who (huu)? whom (hum)? which person?"],
                 "yuunifoom -ka":["(n) uniform (yuuna-foom). Ex: yuunifoomka askarta; the military uniform"],
                 "yuuraaniyum -ka":["(n) uranium (yuu-reey-niyam); Symbol U"]
+            }
+        },
+        {
+            "name": "Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan A. Xaashi, Cawil Cali Xaashi [1995]",
+            "data": {
+                "A, a": ["/ey/ xarafka koowaad ee alifbeetada Ingiriisiga."],
+                "aback": ["/abak/ (adj) 1. gadaale.(v) 2. taken aback; amakaagid (yaabid)."],
+                "abandon": ["/abandhan/abandoning, abandoned; (v) ka tegid aan soo nogod lahayn ama in muddo dheer ah. e.g. You should not abandon your studies."],
+                "abandoned": ["/abandhandh/ (adj) laga guuray (laga haajiray). e.g. Harar was abandoned during the war."],
+                "abase": ["/abeys/ (v) in gof la sharaf rido, ama darajada laga qaado."],
+                "abashed": ["/abashid/ (adj) isku xishood ama isku yaxyaxid. e.g. Sarah looked abashed in the class when she realized her mistake."],
+                "abate": ["/abeyt/abates, abated; (v) 1. yaraato ama gudho. e.g. My illness abated a little. (v) 2. joojin."],
+                "abattoir": ["/abatwar/ (n) goobta xoolaha lagu gowraco, ama xero dhiig."],
+                "abbess": ["/abis/abbesses (n) naagta soorooyinka kaniisadda madaxda u ah."],
+                "abbey": ["/abey/ (n) guryaha kaniisaddu leedahay oo ay soorooyinku degan yihiin."],
+                "abbot": ["/abat/ (n) wadaadka diinta ee madaxda u ah wadaadada kale."],
+                "abbreviate": ["/abbriviyeyt/abbreviates, abbreviating, abbreviated; (v) ereyada oo la soo gaabiyo. e.g. U.S.A. (United States of America)."],
+                "abdicate": ["/abdhikeyt/abdicates, abdicating, abdicated; (v) 1. is casilid (v) 2. ka samrid ama ka tanaasulid hawl ama jago. e.g. The minister abdicated his responsibility."],
+                "abdomen": ["/abdhoman/abdomens, abdominal; (n) uusleyda ama calool ku jirta. e.g. The patient is suffering from pain in the abdomen."],
+                "abduct": ["/abdhakt/ abducts, abducting,abducted; (v) afduub (khasab ku kaxaysad ama xoog ku kaxaysasho).e.g. The baby was abducted from his home and held for ransom"],
+                "aberration": ["/abarreeshan/ (n) 1. arrin ama hawl sidii loo rabay aan noqon, (n) 2. marin habow (weecsanaan)."],
+                "abet": ["/abet/ (v) dambi ama khalad ku gargaarid ama gacan ku siin. e.g. Do not abet your friend's enemy."],
+                "abhor": ["/abhoor/abhors, abhorring, abhorred; (v) karaahiyaysi; necbaysasho. e.g. Mahdi abhors any form of discrimination."],
+                "abide": ["/abaydh/abides, abiding, abided; 1. u dul-qaadasho. e.g. I can't abide an unpunctual person. 2. daa'imid."],
+                "abide by": ["/abaydh baay/ (v) u hogaansanaanta sharci ama heshiis. e.g. You must abide by the law."],
+                "ability": ["/abiliti/abilities; (n) karti ama awood qof wax ku gaban karo. e.g. Ubax studied to the best of her ability."],
+                "abject": ["/abjekt/ (adj) 1. xaalad xun oo niyad jab leh. e.g. the abject situation in the Middle East. 2. aan xurmo lahayn (aan xushmad u qalmin)."],
+                "ablaze": ["/ableys/ (adj) 1. holac ama dab meel qabsaday. e.g. Within minutes the buildings were ablaze. 2. iftiin ama dhalaal fara badan."],
+                "able": ["/eybal/ (adj) awoodi kara. e.g. I will be able to visit you this weekend."],
+                "able-bodied": ["/eybal-bodhidh/ (adj) jir dhisan oo caafimaad qaba."],
+                "ablution": ["/abluushan/ (n) 1. weesaysiga salaadda 2. is daahirin."],
+                "ably": ["/eybli/ (adv) awood buuxda leh. e.g. The President was ably supported by the party members."]
             }
         }
     ]
