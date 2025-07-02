@@ -2090,7 +2090,7 @@
             }
         },
         {
-            "name": "Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan A. Xaashi, Cawil Cali Xaashi [1995]",
+            "name": "Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan A. Xaashi, Cawil Cali Xaashi [1993]",
             "data": {
                 "A, a": ["/ey/ xarafka koowaad ee alifbeetada Ingiriisiga."],
                 "aback": ["/abak/ (adj) 1. gadaale.(v) 2. taken aback; amakaagid (yaabid)."],
@@ -2118,7 +2118,19 @@
                 "able": ["/eybal/ (adj) awoodi kara. e.g. I will be able to visit you this weekend."],
                 "able-bodied": ["/eybal-bodhidh/ (adj) jir dhisan oo caafimaad qaba."],
                 "ablution": ["/abluushan/ (n) 1. weesaysiga salaadda 2. is daahirin."],
-                "ably": ["/eybli/ (adv) awood buuxda leh. e.g. The President was ably supported by the party members."]
+                "ably": ["/eybli/ (adv) awood buuxda leh. e.g. The President was ably supported by the party members."],
+                "abnegation": ["/agnigayshan/ (n) dafiraad, inkiraad. e.g. The thief's abnegation was unacceptable to the judge."],
+                "abnormal": ["/abnoormal/abnormalities, abnormally; (adj) 1. wax aan caadi ahayn. e.g. She exhibited abnormal behaviour. (adj) 2. naadir."],
+                "aboard": ["/aboordh/(adv) gaadiidka uu qof saaranyahay, sida diyaarad ama markab. e.g. The plane crashed, killing all passengers aboard."],
+                "abode": ["/aboodh/ (n) hoyga qof ku noolyahay. e.g. He took his bride to their new abode."],
+                "abolish": ["/abalish/abolishing, abolished; (v) 1. joojin, mamnuucid, (v) 2. tirtirid. e.g. The government will abolish the death penalty."],
+                "abominable": ["/abaminabal/ (adj) wax aad u xun oo la karaahiyaysto. e.g. Factory workers work in abominable conditions in some countries."],
+                "aboriginal": ["/abarijinal/ (n) dadka asalka ah ee ayagoo meel degan loogu yimaado. e.g. Canadian Indians are aboriginal people."],
+                "abortion": ["/aboorshan/ (n) ilmaha uurka ku jira oo si ula kac ah loo soo rido (la soo xaaqo)."],
+                "abortive": ["/abortif/ (adj) 1. dhicisoobey. (adj) 2. lugu guul daraystay. e.g. The police made an abortive attempt to rescue the little girl."],
+                "abound": ["/abowndh/abounds, abounding, abounded; (v) wax tiro badan ama xaddi badan. e.g. The world of science fiction abounds with wonders."],
+                "about": ["/abbowt/ (prep) 1. ku saabsan. e.g. This is a book about Somalia. 2. qiyaastii. e.g. There were about ten students in the class."],
+                "above": ["/abbav/ (prep) 1. ka koreeya, kor. e.g. He lives in the apartment above the store. 2. ka badan."]
             }
         }
     ]
