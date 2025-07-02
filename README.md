@@ -27,7 +27,8 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 
 - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
-- Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan Xaashi, Cawil Xaashi [1995]
+- Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan A. Xaashi, Cawil Cali Xaashi [1995]
+- Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan A. Xaashi, Cawil Cali Xaashi [1993]
 
 
 mashruucan wuxuu hoosyimaadaa
