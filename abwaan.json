@@ -3128,7 +3128,7 @@
                 "bamboozle": ["/baambuusal/bamboozles, bamboozling, bamboozled; (v) khiyaamayn ama sirid. e.g. She bamboozled him into buying an old car."],
                 "ban": ["/baan/bans, banning, banned;(v) mamnuucid ama joojin. e.g. kat is banned in Saudi Arabia."],
                 "banana": ["/banana/bananas; (n) muus (moos). e.g. Kids like to eat bananas."],
-                "band": ["/baandh/bands, banding, banded; (n) 1. duub (shay jilicsan 00 wax layskula gabto). e.g. a hat band (n) 2. koox muustiko ama urur. e.g. The band played music."],
+                "band": ["/baandh/bands, banding, banded; (n) 1. duub (shay jilicsan oo wax layskula gabto). e.g. a hat band (n) 2. koox muustiko ama urur. e.g. The band played music."],
                 "bandage": ["/baandheyj/(n) faashad. e.g. Put a bandage around your knee."],
                 "bandit": ["/baandhit/bandits; (n) burcad hubaysan (dadka xoog wax ku dhaca)"],
                 "bandy": ["/daandhi/bandies, bandying, bandied; (v) 1. hadal isku tuur tuurid.(v) 2. hadal lugu soo celceliyo. e.g. I do not want to bandy words with him."],
@@ -3138,10 +3138,32 @@
                 "banish": ["/baanish/banishes, banishing, banished; (v) masaafurin (qof dal laga saaro). e.g. He was banished from Somalia."],
                 "bank": ["/baank/banks, banking, banked; (n) 1. bangi (baan, kayd). e.g. He took all his money out of the bank to buy a house.(n) 2. qarka wabiga. e.g. He sat on the bank of the river, trying to catch fish."],
                 "bank account": ["/baank akawnt/(n) koontada (xisaabta bangiga)."],
-                "bank on": ["/ (v) waxaad hubtid 00 aad isku halaysid. e.g. Do not bank on getting the money from your father."],
+                "bank on": ["/ (v) waxaad hubtid oo aad isku halaysid. e.g. Do not bank on getting the money from your father."],
                 "bankrupt": ["/baankrapt/(v) musalifid; fakhriyid (kicid)."],
                 "bank statement": ["/ bank statements; (n) warbixinta koontada bangiga. e.g. I have not received my bank statement this month."],
-                "banner": ["/baanar/banners;(n) calan ama maro wax lugu qoro, sida kuwa mudaharaadka ama iidhehda lugu qoro. e.g. A lot of people filled the streets carrying banners."]
+                "banner": ["/baanar/banners;(n) calan ama maro wax lugu qoro, sida kuwa mudaharaadka ama iidhehda lugu qoro. e.g. A lot of people filled the streets carrying banners."],
+                "banquet": ["/baankuwit/banquets;(n) casuumad (qada-sharaf) badanaa kulan iyo khudbooyin leh. e.g. I met her at the banquet."],
+                "banter": ["/baantar/(n) kaftan."],
+                "baptize": ["/baaptays/baptizes, baptizing, baptized;(v) 1. in qof diinta masiixiga (gaalada) galo oo biyo loogu qubeeyo (kiristaamin)(v) 2. magac masiixi loo bixiyo. e.g. He was baptized Joseph."],
+                "bar": ["/baar/bars, barring, barred;(n) 1. makhaayad (wax laga cabbo/laga cuno). e.g. He drinks at the bar every night.(n) 2. gabal ama cad bir ama wax kale ah oo fidsan. e.g. a bar of chocolate (n) 3. ood ama wax albaab oo kale ah. e.g. The window was protected by iron bars."],
+                "barbarian": ["/barbeeriyan/barbarians/(n) 1. dad waagii hore jirey oo cawaan ahaa. (n) 2. cawaanimo (jaahilnimo) ilbaxnimo-darro. e.g. a barbarian tribe."],
+                "barbecue": ["/baarbikyuu/barbecues;(n) 1. qalabka ama dabka lugu dubo (solo) cuntada bannaanka lugu samaysto (dalxiiska meel loo baxo) (n) 2. xafladda ama isu-taga bannaanka loo baxo. e.g. We had a very exciting barbecue last summer."],
+                "barber": ["/barbar/barbers;(n) timo-jare (baarbayeeri)."],
+                "bare": ["/beer/barer, barest, bares;(adj) 1. qaawan.(adj) 2. maran. e.g. His room was bare. e.g. bare feet ~ (cago caddaan)."],
+                "barely": ["/beerli/(adv) oo kali ah, oo qura. e.g. I have barely enough money to pay the bill."],
+                "bargain": ["/baargin/bargains, bargaining, bargained; (n) 1. baayactan; gorgortan. e.g. Let us make a bargain, what could you offer?(n) 2. qiima jaban. e.g. At this low price, the suit is a bargain."],
+                "barge": ["/baarji/barges, barging, barged; (v) 1. jibaaxid; dardarid; isku ciriiryid. e.g. She barges in without knocking on the door.(n) 2. doon lugu raro waxyaabaha culus."],
+                "bark": ["/baark/barks, barking, barked; (v) 1. cida eeyga (qaylada eeyga) e.g. The dog barked at the security guard. (n) 2. golofta dhirta (diirka dhirta)."],
+                "barley": ["/baarli/ (n) geed laga sameeyo cunto iyo khamrigaba."],
+                "barmaid": ["/baarmeydh/barmaids; (n) naagta ka adeegta baarka (kabal yeeriyad)."],
+                "barn": ["/barn/barns; (n) bakhaar lugu xafido miraha iyo cuntada xoolaha oo beer ku dhex taal."],
+                "barometer": ["/baaromitar/ (n) qalab lugu cabbiro cimilada (cadaadiska hawada)."],
+                "barracks": ["/barrak/barracks, barracking, barracked; (n) xero askareed (guryo askareed). e.g. a military barracks."],
+                "barrel": ["/baarral/ (n) 1. fuusto (foosto) ama shay wax dareere ah ama cabbitaan lugu shubo. e.g. barrel of oil (n) 2. dhuunta qoriga ee xabbadu ka dhacdo."],
+                "barren": ["/barran/ (adj) 1. dhirta aan midhaha bixin, ama dhulka aan dhirtu ka bixin e.g. a barren land (adj) 2. naagta madhashada ah. (ma-dhasho)."],
+                "barricade": ["/baarakeydh/barricades, barricading, barricaded; dariiq xirid (waddo xirid). e.g. The road was barricaded with snow."],
+                "barrier": ["/beerriyer/(n) 1. derbi aan laga gudbi karin e.g. I can’t cross the barrier.(n) 2. wax ku hor taagan, (carqalad ku ah hishiis, xal, guul iwm). e.g. We should try to break down the barriers between the races."]
+
 
 
 
