@@ -22,14 +22,13 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Qaamuus-Yare Caafimaad: Ingiriis-Soomaali - Deeqa Cali [1999]
  - Qaamuuska Magacyada Soomaalida: Soomaali-Ingiriis - Anwar Maxamed Diiriye [2006]
  - Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1993]
+ - Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1995]
 
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
 - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
-- Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1995]
-
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
