@@ -29,6 +29,9 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 
 - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
+- Magacyada Nafleyda Soomaaliyeed iyo Ereybixin Udhiganta ee Laatin, Talyaani iyo Ingiriis - Funayooli, Simoneeta [1985]
+- Eraybixinta Af Soomaaliga ee Hawlaha Wasaaradaha - Guddiga Af Soomaaliga [1972]
+- Qaamuus Ingiriis-Soomaali (Maay) - Maxamed Xaaji Mukhtaar, Cumar Macalin Axmed [2007]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
