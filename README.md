@@ -32,6 +32,7 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - Magacyada Nafleyda Soomaaliyeed iyo Ereybixin Udhiganta ee Laatin, Talyaani iyo Ingiriis - Funayooli, Simoneeta [1985]
 - Eraybixinta Af Soomaaliga ee Hawlaha Wasaaradaha - Guddiga Af Soomaaliga [1972]
 - Qaamuus Ingiriis-Soomaali (Maay) - Maxamed Xaaji Mukhtaar, Cumar Macalin Axmed [2007]
+- Hal Ururka Erayada Maamulka Xafiisyada, Xisaabaadka Ganacsiga iyo Dhaqaalaha - Warshadaha Saabuunta Bayl, Qubeyska iyo Mariska [1979]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
