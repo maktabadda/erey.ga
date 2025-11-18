@@ -2922,7 +2922,22 @@
                 "MAKHAASIIN KU HAYN": ["Magazzinaggio","Warehousing"],
                 "XAMMAALI FURDO": ["Camallaggio","Porterage"],
                 "DAYUURAD KU RARID": ["Carico aereo","Air freight"],
-                "MARKAB KU RARID": ["Carico marittimo","Sea freight"]
+                "MARKAB KU RARID": ["Carico marittimo","Sea freight"],
+
+
+                "SHIRKAD (Cr.)": ["Società","Company","Waa iskaashi dan wadaag dhaqaale ah oo dad isugu tago si uu u dhiso meel waxtar u wada leh, ha ahaato heer ganacsi ama heer warshadeed; waxayna leedahay hannaan kala gaddisan iyo xeer kala duwan oo u abaabulan hadba sida ay tahay danta laga leeyahayi. Sida badan, hantigelinteeda waxaa wadajir u keena dadka shirkadda ku dan wadaagey."],
+                "SAAMI": ["Azione","Share","Waa qayb qof ku leeyahay hanti shirkadeed waxayna ku qoran tahay warqad shahaado ah oo caddaynaysa in qofkaasi saami ku leeyahay shirkaddaas. Waxay u kala baxdaa shahaadadaasi «Magacle» iyo «La site»."],
+                "SHIRKAD SAAMILEEY AH (S.S.A.)": ["Società per azioni (S.p.A.)","Joint stock company","Waa shirkad hannaankeedu ku dhisan yahay saamiyaal dad leeyahay, si kastaba ha u kala bateene, kuwaaso saldhig u ah hantideeda."],
+                "QAYB SAAMI": ["Dividendo","Dividend","Waa qaybta faa'iidada ama khasaarada saamilaha ka soo gaarta saamiga uu shirkad ku leeyahay. Hase yeeshee, haddii khasaare yimaado saamigaasi wuxuu noqdaa qayb saami khasaare."],
+                "HAY'AD (Cr.)": ["Istituzione","Institution"],
+                "WAKAALAD (Cr.)": ["Ente; Agenzia","Board; Agency","Waa Hay'ad madax bannaan oo Shirkad ama Dawladi leedahay, ama wadajir u leeyihiin, oo qabata hawlo waaweeyn ama ganacsi heer sare ah."],
+                "SHIRKAD CAYMIS (Cr.)": ["Società di assicurazione","Insurance company","Waa Hay'ad shaqadeedu tahay inay heshiis ay lacag ku qaadato la yeelato qof, Shirkad ama Hay'ad si ay uga badbaadiso wixii halis gelin kara hantidooda kala duwan, shaqaalahooda, caafimaadkooda iyo meelaha qaarkood naftooda intaba, taasoo loo yaqaan caymis kuna imaanaysa ayadoo la magdhabo wixii khasaare ama dhibaato kale ah, oo aan loola kasin, soona gaara qofkii, Shirkaddii ama Hay'addii heshiiska caymiska lala samaystay. Caymisku wuxuu ku fadhiyaa seddex mabda: (1) In is aammin jiro (2) In hanti ama shaqo dan iyo heer caymis gali kartaa jirto (3) In magdhaw jiro."],
+                "SHAHAADA CAYMIS": ["Polizza di assicurazione","Insurance policy","Waa warqadda heshiiska caymiska ee muujinaysa shuruudda iyo muddada caymiska."],
+                "WARSHAD": ["Industria","Industry","Waa meel makiinado kaligood is woda, ama kuwo dad wodo, looga soo saaro tacab samaysan oo markii hore ahaa cayriin (sidii dabeecadu u uuntay) dabadeedna makiinadahaas iyo qalab kale u dhallan rogeen si tii hore ka duwan; waxayna ka dhalataa hantigelin loogu tala galay, guud ahaan, taranka dhaqaalaha dalka iyo, gaar ahaan, in laga helo faa'iido waxtar u leh cidda leh Warshadda iyo shaqaalaheeda intaba. Hawlaha tacab warshadayntu waa kala duwan yihiin, warshadahuna waxay u kala baxaan afar: Warshad yar: waa midda hantigelinteeda, shaqaaleheeda iyo tacab soo saarkeeduba yar yihiin. Warshad fudud: waa tan soo saarta tacabka warshadayntiisu dhib yartahay laakiin ku dhaqankiisa iyo dalabkiisu badan yihiin. Warshad culus: Waa midda soo saarta makiinadaha waaween iyo tacabka la xiriira biraha (sida hubka dagaalka, dayuuradaha, maraakiibta, iwm.). Warshad weyn: Waa tan ka kooban warshado culus oo isku darsamay wadajirna wax u soo saara"],
+                "FARSHAXAN": ["Artigianato","Handicraft"],
+                "WARSHADAYN": ["Industrializzazione","Industrialisation"],
+                "WARSHADEEYE": ["Industriale","Industrialist"],
+                "ALAAB CEERIIN": ["Materie prime","Raw material","Waa dhammaan waxa loo isticmaalo tacab soo saarka Warshadaha, sida khayraadka kala duwan ee dhulka, badda iyo xoolaha."]
             }
         }
     ]
