@@ -24,7 +24,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1993]
  - Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1995]
  - Magacyada Nafleyda Soomaaliyeed (Laatin-Talyaani-Ingiriis) - Funayooli, Simoneeta [1985]
-
+ - Hal-Ururka Erayada Maamulka Xafiisyada, Xisaabaadka Ganacsiga iyo Dhaqaalaha - Warshadaha Saabuunta Bayl, Qubeyska iyo Mariska [1979]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
@@ -32,7 +32,6 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
 - Eraybixinta Af Soomaaliga ee Hawlaha Wasaaradaha - Guddiga Af Soomaaliga [1972]
 - Qaamuus Ingiriis-Soomaali (Maay) - Maxamed Xaaji Mukhtaar, Cumar Macalin Axmed [2007]
-- Hal-Ururka Erayada Maamulka Xafiisyada, Xisaabaadka Ganacsiga iyo Dhaqaalaha - Warshadaha Saabuunta Bayl, Qubeyska iyo Mariska [1979]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
