@@ -32,6 +32,7 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
 - Qaamuus Ingiriis-Soomaali (Maay) - Maxamed Xaaji Mukhtaar, Cumar Macalin Axmed [2007]
+- Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
