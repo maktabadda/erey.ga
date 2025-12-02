@@ -2373,12 +2373,6 @@
         {
             "name": "Qaamuus Ingiriis-Soomaali (Maay) - Maxamed Xaaji Mukhtaar, Cumar Macalin Axmed [2007]",
             "data": {
-                "": ""
-            }
-        },
-        {
-            "name": "Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]",
-            "data": {
                 "A,a": ["/ey/ harafky koowaad oo farty ingriinsky."],
                 "abandon": ["/abandan/ (v) ku tabow, gooyow. She abandoned her car in the snow."],
                 "abbey": ["/abey/ (n) itho kaniisidy lety oo soorooying ky noolying waany ky shaqeeyayaang."],
@@ -3591,6 +3585,12 @@
                 "cheer": ["/jiir/ (v) 1. qayliyow oo ammaang i booris leh. 2. farhiyow, koothiyow. His jokes cheered me up."],
                 "cheerful": ["/jiirful/ (adj) farahsyng, fehmy leh."],
                 "cheese": ["/jiis/ (n) farmaajy (burudky wangty)."]
+            }
+        },
+        {
+            "name": "Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]",
+            "data": {
+
             }
         }
     ]
