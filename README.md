@@ -34,6 +34,8 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
 - Qaamuus Ingiriis-Soomaali (Maay) - Maxamed Xaaji Mukhtaar, Cumar Macalin Axmed [2007]
 - Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]
+- Qaamuuska Ereybixinta - Bayoolaji (Soomaali-Ingiriis) - Xarunta Horumarinta Manaahijta [1987]
+- Abwaan Urursan (Qaamuus Af-Soomaali - Af-Ruush) - D. I. Estebanyenko, Maxamed Xaaji Cismaan [1969]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
