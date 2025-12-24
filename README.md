@@ -36,6 +36,7 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
 - Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]
 - Abwaan Urursan (Qaamuus Af-Soomaali - Af-Ruush) - D. I. Estebanyenko, Maxamed Xaaji Cismaan [1969]
+- Qaamuus Soomaali-Talyaani - Jaamacadda Ummadda Soomaaliyeed [1985]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
