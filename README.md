@@ -14,6 +14,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
    - Xisaab (Soomaali-Ingiriis) [1987]
    - Barbaarinta Jirka (Soomaali-Ingiriis) [1984]
    - Juqraafi (Soomaali-Ingiriis) [1987]
+   - Bayoolaji (Soomaali-Ingiriis) - Xarunta Horumarinta Manaahijta [1987]
  - Gundhigga Astaamaha - Ina Ashkir [2015]
  - Qaamuuska Afmaal: Soomaali-Ingiriis - Saciid [2013]
  - Qaamuus-Yare Soomaali-Faransiis - Kiristoofe Filibeerti [1976]
@@ -34,7 +35,6 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
 - Qaamuus Ingiriis-Soomaali (Maay) - Maxamed Xaaji Mukhtaar, Cumar Macalin Axmed [2007]
 - Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]
-- Qaamuuska Ereybixinta - Bayoolaji (Soomaali-Ingiriis) - Xarunta Horumarinta Manaahijta [1987]
 - Abwaan Urursan (Qaamuus Af-Soomaali - Af-Ruush) - D. I. Estebanyenko, Maxamed Xaaji Cismaan [1969]
 
 mashruucan wuxuu hoosyimaadaa
