@@ -30,6 +30,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Qaamuus Talyaani-Soomaali - Cabdalla Cumar Mansuur, Axmed Cabdullaahi A. [1985]
  - *Qaamuus Ingiriis-Soomaali (Maay) - Maxamed Xaaji Mukhtaar, Cumar Macalin Axmed [2007]
  - Ereyo Talyaani-Soomaali - Maxamuud Garyare, Cabdikariim Daa'uud Weyre
+ - Qaamuus-Yare Ingiriis-Jiiddu-Soomaali - Saalim Caliyow Ibro [1998]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
