@@ -14,7 +14,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
    - Xisaab (Soomaali-Ingiriis) [1987]
    - Barbaarinta Jirka (Soomaali-Ingiriis) [1984]
    - Juqraafi (Soomaali-Ingiriis) [1987]
-   - Bayoolaji (Soomaali-Ingiriis) - Xarunta Horumarinta Manaahijta [1987]
+   - Bayoolaji (Soomaali-Ingiriis) [1987]
  - Gundhigga Astaamaha - Ina Ashkir [2015]
  - Qaamuuska Afmaal: Soomaali-Ingiriis - Saciid [2013]
  - Qaamuus-Yare Soomaali-Faransiis - Kiristoofe Filibeerti [1976]
