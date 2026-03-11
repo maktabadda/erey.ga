@@ -32,10 +32,10 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Ereyo Talyaani-Soomaali - Maxamuud Garyare, Cabdikariim Daa'uud Weyre
  - Qaamuus-Yare Ingiriis-Jiiddu-Soomaali - Saalim Caliyow Ibro [1998]
  - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
+ - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
-- SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
 - Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]
 - Abwaan Urursan (Qaamuus Af-Soomaali - Af-Ruush) - D. I. Estebanyenko, Maxamed Xaaji Cismaan [1969]
 - Qaamuus Soomaali-Talyaani - Jaamacadda Ummadda Soomaaliyeed [1985]
