@@ -33,6 +33,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Qaamuus-Yare Ingiriis-Jiiddu-Soomaali - Saalim Caliyow Ibro [1998]
  - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
  - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
+ - Ereybixinta Qalabka Farsamada Gacanta - Maxamuud Iimaan Aadan [1975]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
