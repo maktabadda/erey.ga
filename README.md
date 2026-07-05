@@ -34,13 +34,13 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Qaamuus Soomaali-Ingiriis - Madiina Cismaan, R Deefid Zork [1993]
  - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
  - Ereybixinta Qalabka Farsamada Gacanta - Maxamuud Iimaan Aadan [1975]
+ - Qaamuus Faransiis-Soomaali - Maxamed Cabdi Maxamed [1985]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
 - Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]
 - Abwaan Urursan (Qaamuus Af-Soomaali - Af-Ruush) - D. I. Estebanyenko, Maxamed Xaaji Cismaan [1969]
 - Qaamuus Soomaali-Talyaani - Jaamacadda Ummadda Soomaaliyeed [1985]
-- Qaamuus Faransiis-Soomaali - Maxamed Cabdi Maxamed [1985]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
