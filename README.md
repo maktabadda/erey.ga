@@ -35,6 +35,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - SOO MAAL Qaamuus Af Soomaali - Aadan Xasan Aadan [2013]
  - Ereybixinta Qalabka Farsamada Gacanta - Maxamuud Iimaan Aadan [1975]
  - Qaamuus Faransiis-Soomaali - Maxamed Cabdi Maxamed [1985]
+ - Qaamuus Soomaali-Carabi oo Kooban - Cabdirisaaq Maxamed Cilmi Ina-Warfaa [2007]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
