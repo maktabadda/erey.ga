@@ -24,7 +24,7 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Qaamuuska Magacyada Soomaalida: Soomaali-Ingiriis - Anwar Maxamed Diiriye [2006]
  - Qaamuuska Aasaasi: Ingiriis-Soomaali - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1993]
  - Qaamuuska Fiqi: Soomaali-Ingiriis - Cabdiraxmaan C. Xaashi, Cawil Cali Xaashi [1995]
- - Magacyada Nafleyda Soomaaliyeed (Laatin-Talyaani-Ingiriis) - Funayooli, Simoneeta [1985]
+ - Magacyada Soomaaliyeed ee Nafleyda (Laatin-Talyaani-Ingiriis) - Funayooli, Simoneeta [1985]
  - Hal-Ururka Erayada Maamulka Xafiisyada, Xisaabaadka Ganacsiga iyo Dhaqaalaha - Warshadaha Saabuunta Bayl, Qubeyska iyo Mariska [1979]
  - Eraybixinta Af Soomaaliga ee Hawlaha Wasaaradaha - Guddiga Af Soomaaliga [1972]
  - Qaamuus Talyaani-Soomaali - Cabdalla Cumar Mansuur, Axmed Cabdullaahi A. [1985]
