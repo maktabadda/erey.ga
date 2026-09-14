@@ -776,7 +776,18 @@
         {
             "name": "Ereyfuraha Cilmiga Qorsheynta Deegaannada (Soomaali-Talyaani-Ingiriis) - Jaamacadda Ummadda Soomaaliyeed, Sekondo Faranjisko Lukiini [1979]",
             "data": {
-                
+                "ABITANTE": ["Inhabitant","DEGANE"],
+                "ABITAZIONE": ["House","GURI"],
+                "ACQUA": ["Water","BIYO"],
+                "ACQUA DOLCE": ["Fresh water","BIYO MACAAN"],
+                "ACQUA PIOVANA": ["Storm water, rainwater","ROOBKA BIYIHIISA","Precipitazione atmosferica liquida","Waa biyaha cirka kasoo da'a"],
+                "ACQUEDOTTO": ["water supply; waterpipe","DHUUN BIYOMAREEN; HAAN","Sistema per la distribuzione di acqua potabile per usi domestici o industriali.","Waa habka qaybinta biyaha la cabo; iyo kuwa warshadaha."],
+                "AEROPORTO": ["Airport","GEGIDA DAYUURADAHA"],
+                "AFFITTO": ["Lease","IJAAR, KIRO"],
+                "AFFITTO FONDIARIO": ["Lease of land","IJAARKA DHULKA"],
+                "AFFOLLAMENTO ABITATIVO": ["Occupancy rate","CIDNAANTA DEGMADA","Rappresenta il rapporto tra il numero di abitanti ed il numero di vani effettivi abitabili di una zona edilizia.","Waa isu qeybinta dadka deggan iyo inta qolal la degi karo ee qayb dhismo degan."],
+                "AGRICOLTURA": ["Agriculture","BEERASHO; TACAB"],
+                "ALBERO": ["Tree; wood","GEED"]
             }
         }
     ]
