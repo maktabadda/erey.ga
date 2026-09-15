@@ -44,6 +44,7 @@ Abwaannada aynu billawnay ee shaqo ku socoto:
 - Abwaan Urursan (Qaamuus Af-Soomaali - Af-Ruush) - D. I. Estebanyenko, Maxamed Xaaji Cismaan [1969]
 - Qaamuus Soomaali-Talyaani - Jaamacadda Ummadda Soomaaliyeed [1985]
 - Qaamuus Yare Af-Soomaali iyo Af-Talyaani - Buruuno Baansa [1974]
+- Ereyfuraha Cilmiga Qorsheynta Deegaannada (Soomaali-Talyaani-Ingiriis) - Jaamacadda Ummadda Soomaaliyeed, Sekondo Faranjisko Lukiini [1979]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
