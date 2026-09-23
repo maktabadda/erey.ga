@@ -37,14 +37,14 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Qaamuus Faransiis-Soomaali - Maxamed Cabdi Maxamed [1985]
  - Qaamuus Soomaali-Carabi oo Kooban - Cabdirisaaq Maxamed Cilmi Ina-Warfaa [2007]
  - Qaamuus Ingiriis-Soomaali - Baadari Larajaasi [1897]
-- Ereyfuraha Cilmiga Qorsheynta Deegaannada (Soomaali-Talyaani-Ingiriis) - Jaamacadda Ummadda Soomaaliyeed, Sekondo Faranjisko Lukiini [1979]
+ - Ereyfuraha Cilmiga Qorsheynta Deegaannada (Soomaali-Talyaani-Ingiriis) - Jaamacadda Ummadda Soomaaliyeed, Sekondo Faranjisko Lukiini [1979]
+ - Qaamuus Yare Af-Soomaali iyo Af-Talyaani - Buruuno Baansa [1974]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
 - Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]
 - Abwaan Urursan (Qaamuus Af-Soomaali - Af-Ruush) - D. I. Estebanyenko, Maxamed Xaaji Cismaan [1969]
 - Qaamuus Soomaali-Talyaani - Jaamacadda Ummadda Soomaaliyeed [1985]
-- Qaamuus Yare Af-Soomaali iyo Af-Talyaani - Buruuno Baansa [1974]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
