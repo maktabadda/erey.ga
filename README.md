@@ -40,13 +40,13 @@ Abwaannada aan hayno ee la dhammaystiray, laakiin tifaftir joogto ah ku socdo:
  - Ereyfuraha Cilmiga Qorsheynta Deegaannada (Soomaali-Talyaani-Ingiriis) - Jaamacadda Ummadda Soomaaliyeed, Sekondo Faranjisko Lukiini [1979]
  - Qaamuus Yare Af-Soomaali iyo Af-Talyaani - Buruuno Baansa [1974]
  - Magacyada Soomaaliyeed ee Dhirta - Rashiid Cabdi [1985]
+ - Magacyada Soomaaliyeed ee Dhirta - Sayid Maxamed Anwar Kaadimi [1985]
 
 Abwaannada aynu billawnay ee shaqo ku socoto:
 
 - Qaamuus Soomaali-Ingiriis - Baadari Larajaasi [1897]
 - Abwaan Urursan (Qaamuus Af-Soomaali - Af-Ruush) - D. I. Estebanyenko, Maxamed Xaaji Cismaan [1969]
 - Qaamuus Soomaali-Talyaani - Jaamacadda Ummadda Soomaaliyeed [1985]
-- Magacyada Soomaaliyeed ee Dhirta - Sayid Maxamed Anwar Kaadimi [1985]
 
 mashruucan wuxuu hoosyimaadaa
 maktabadda | Af-Soomaaliga
